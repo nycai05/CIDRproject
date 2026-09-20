@@ -1,0 +1,998 @@
+WES_Cohort_1,WES_Cohort_2,WES_All,RNA_Cohort_1,RNA_Cohort_2,RNA_All,Institution,Harmonized_SU2C_Participant_ID_v2,Harmonized_SU2C_WES_Tumor_Sample_ID_v2,Harmonized_SU2C_WES_Normal_Sample_ID_v2,Harmonized_SU2C_RNA_Tumor_Sample_ID_v2,Pre-treatment_RNA_Sample_QC,Patient_Age_at_Diagnosis,Patient_Sex,Patient_Race,Patient_Smoking_Status,Patient_Smoking_Pack_Years_Harmonized,Histology_Harmonized,Histology_Detail,Initial_Stage,Initial_Stage_Substage,PDL1_TPS,PDL1_TPS_Description,Local_Antibody_Clone,Clinical_Driver,Sequencing_Platform,Advanced_Diagnosis_Date,Line_of_Therapy,Agent_PD1,Agent_PD1_Category,Prior_Platinum,Prior_TKI,Harmonized_PFS_Event,Harmonized_PFS_Days,Harmonized_Confirmed_BOR,Harmonized_BOR_RECIST,Harmonized_OS_Event,Harmonized_OS_Days
+1,,1,,,,Cleveland Clinic,SU2CLC-CLE-NIVO1,SU2CLC-CLE-NIVO1-T1,SU2CLC-CLE-NIVO1-N1,,,61,F,0,1,40,Squamous,,3,A,,,,,,-39,2,Nivolumab,PD(L)1,1,0,1,53,PD,,1,434
+,,,1,,1,Cleveland Clinic,SU2CLC-CLE-NIVO10,,,SU2CLC-CLE-NIVO10-T1,Flag,55,F,2,1,30,Adeno,,4,,,,,,,-321,3,Nivolumab,PD(L)1,1,0,1,63,PD,,1,86
+1,,1,1,,1,Cleveland Clinic,SU2CLC-CLE-NIVO18,SU2CLC-CLE-NIVO18-T1,SU2CLC-CLE-NIVO18-N1,SU2CLC-CLE-NIVO18-T1,Keep,68,F,0,0,0,Adeno,,2,A,,,,EGFR,,-533,4,Nivolumab,PD(L)1,1,1,1,50,PD,,1,161
+1,,1,1,,1,Cleveland Clinic,SU2CLC-CLE-NIVO19,SU2CLC-CLE-NIVO19-T1,SU2CLC-CLE-NIVO19-N1,SU2CLC-CLE-NIVO19-T1,Keep,57,F,2,2,15,Adeno,,4,,,,,,,-35,1,Nivolumab,PD(L)1,0,0,1,297,PR,,1,297
+,,,1,,1,Cleveland Clinic,SU2CLC-CLE-NIVO2,,,SU2CLC-CLE-NIVO2-T1,Keep,63,F,0,0,0,Adeno,,4,,,,,,,-262,4,Nivolumab,PD(L)1,1,1,1,68,PD,,1,123
+,,,1,,1,Cleveland Clinic,SU2CLC-CLE-NIVO20,,,SU2CLC-CLE-NIVO20-T1,Keep,63,F,0,1,35,Adeno,,4,,,,,KRAS,,-301,2,Nivolumab,PD(L)1,1,0,1,273,PR,,1,273
+,,,1,,1,Cleveland Clinic,SU2CLC-CLE-NIVO21,,,SU2CLC-CLE-NIVO21-T1,Keep,56,F,2,2,10,Adeno,,4,,,,,,,-86,2,Nivolumab,PD(L)1,1,0,,,,,1,327
+,,,,1,1,Cleveland Clinic,SU2CLC-CLE-NIVO24,,,SU2CLC-CLE-NIVO24-T1,Flag,73,F,0,1,82,Squamous,,3,A,,,,,,-11,2,Nivolumab,PD(L)1,1,0,1,172,SD,,1,172
+1,,1,1,,1,Cleveland Clinic,SU2CLC-CLE-NIVO3,SU2CLC-CLE-NIVO3-T1,SU2CLC-CLE-NIVO3-N1,SU2CLC-CLE-NIVO3-T1,Keep,57,F,0,0,0,Adeno,,4,,,,,ALK,,-497,4,Nivolumab,PD(L)1,1,1,1,392,PR,,1,636
+,,,1,,1,Cleveland Clinic,SU2CLC-CLE-NIVO31,,,SU2CLC-CLE-NIVO31-T1,Flag,83,M,0,1,4,Squamous,,1,,,,,,,-4,1,Nivolumab,PD(L)1,0,0,1,12,PD,,1,98
+1,,1,,,,Cleveland Clinic,SU2CLC-CLE-NIVO4,SU2CLC-CLE-NIVO4-T1,SU2CLC-CLE-NIVO4-N1,,,67,M,0,1,30,Squamous,,1,A,,,,,,-56,2,Nivolumab,PD(L)1,1,0,,,PR,,1,330
+,,,1,,1,Cleveland Clinic,SU2CLC-CLE-NIVO47,,,SU2CLC-CLE-NIVO47-T1,Flag,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1,1,,1,1,Cleveland Clinic,SU2CLC-CLE-NIVO5,SU2CLC-CLE-NIVO5-T1,SU2CLC-CLE-NIVO5-N1,SU2CLC-CLE-NIVO5-T1,Keep,61,M,0,1,60,Adeno,,4,,,,,,,-686,2,Nivolumab,PD(L)1,1,0,1,169,PR,,1,547
+,,,,1,1,Cleveland Clinic,SU2CLC-CLE-NIVO52,,,SU2CLC-CLE-NIVO52-T1,Flag,64,M,0,1,75,Adeno,,4,,,,,EGFR,,-1054,6,Nivolumab,PD(L)1,1,1,1,622,PR,,1,911
+,,,1,,1,Cleveland Clinic,SU2CLC-CLE-NIVO54,,,SU2CLC-CLE-NIVO54-T1,Keep,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,1,,1,Cleveland Clinic,SU2CLC-CLE-NIVO61,,,SU2CLC-CLE-NIVO61-T1,Keep,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,1,,1,Cleveland Clinic,SU2CLC-CLE-NIVO64,,,SU2CLC-CLE-NIVO64-T1,Flag,63,F,0,1,46,Squamous,,4,,,,,,,-274,2,Nivolumab,PD(L)1,1,0,,,,,1,474
+,,,1,,1,Cleveland Clinic,SU2CLC-CLE-NIVO65,,,SU2CLC-CLE-NIVO65-T1,Keep,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,,1,1,,1,Cleveland Clinic,SU2CLC-CLE-NIVO9,SU2CLC-CLE-NIVO9-T1,SU2CLC-CLE-NIVO9-N1,SU2CLC-CLE-NIVO9-T1,Keep,74,M,0,1,50,Adeno,,2,A,,,,KRAS,,-45,1,Nivolumab,PD(L)1,0,0,1,188,SD,,1,404
+1,,1,1,,1,Columbia University,SU2CLC-COL-1001,SU2CLC-COL-1001-T1,SU2CLC-COL-1001-N1,SU2CLC-COL-1001-T1,Keep,70,M,0,1,39,Adeno,,1,B,0.1,,22C3,KRAS,Ventana,,2,Pembrolizumab,PD(L)1,1,0,1,169,SD,,,
+,,,1,,1,Columbia University,SU2CLC-COL-1004,,,SU2CLC-COL-1004-T1,Keep,65,F,,1,50,Squamous,,3,B,,>50%,22C3,,Ventana,,1,Pembrolizumab,PD(L)1,0,0,,,,,,
+1,,1,1,,1,Columbia University,SU2CLC-COL-1005,SU2CLC-COL-1005-T1,SU2CLC-COL-1005-N1,SU2CLC-COL-1005-T1,Keep,52,F,3,0,0,Other,Carcinoma,,,0.7,,22C3,,Ventana,,1,Pembrolizumab,PD(L)1,0,0,1,257,PR,-82%,0,462
+1,,1,1,,1,Columbia University,SU2CLC-COL-1007,SU2CLC-COL-1007-T1,SU2CLC-COL-1007-N1,SU2CLC-COL-1007-T1,Flag,69,M,,1,100,Squamous,,1,B,0,,22C3,,,-35,2,Nivolumab,PD(L)1,1,0,1,49,PD,29%,1,214
+,,,1,,1,Columbia University,SU2CLC-COL-1008,,,SU2CLC-COL-1008-T1,Keep,59,F,,1,20,Adeno,,3,A,0.6,,22C3,KRAS,CUMC NGS,-50,2,Pembrolizumab,PD(L)1,1,0,1,134,SD,-12%,1,237
+,,,1,,1,Columbia University,SU2CLC-COL-1010,,,SU2CLC-COL-1010-T1,Keep,75,F,0,1,30,Squamous,,4,,0,,22C3,,Ventana,,1,Pembrolizumab,PD(L)1,0,0,0,62,SD,10%,0,62
+1,,1,,,,Columbia University,SU2CLC-COL-1012,SU2CLC-COL-1012-T1,SU2CLC-COL-1012-N1,,,81,M,0,1,42,Adeno,,4,A,,>50%,22C3,KRAS,Ventana,-58,1,Pembrolizumab,PD(L)1,0,0,1,288,PR,-47%,0,1516
+,,,1,,1,Columbia University,SU2CLC-COL-1016,,,SU2CLC-COL-1016-T1,Keep,64,F,0,1,100,Squamous,,,,0.3,,22C3,,Ventana,,2,Pembrolizumab,PD(L)1,1,0,1,131,SD,-22%,1,241
+,,,1,,1,Columbia University,SU2CLC-COL-1017,,,SU2CLC-COL-1017-T1,Keep,67,M,0,1,100,Adeno,,4,,0.7,,22C3,,,-27,1,Pembrolizumab,PD(L)1,0,0,0,225,PR,,0,225
+,,,1,,1,Columbia University,SU2CLC-COL-1018,,,SU2CLC-COL-1018-T1,Flag,88,F,0,1,60,Squamous,,4,,0.6,,22C3,,Ventana,,1,Pembrolizumab,PD(L)1,0,0,0,243,PR,-48%,0,252
+,,,,1,1,Columbia University,SU2CLC-COL-1020,,,SU2CLC-COL-1020-T1,Flag,51,F,0,1,10,Adeno,,,,0.6,,22C3,,Ventana,,1,Pembrolizumab,PD(L)1,0,0,1,87,SD,-18%,1,364
+,,,,1,1,Columbia University,SU2CLC-COL-1021,,,SU2CLC-COL-1021-T1,Keep,78,F,0,1,10,Adeno,,,,,,,,,,1,Pembrolizumab,PD(L)1,0,0,1,72,PD,17%,1,181
+,,,1,,1,Columbia University,SU2CLC-COL-1022,,,SU2CLC-COL-1022-T1,Keep,67,F,,1,15,Adeno,,4,,,,,,,-44,1,Pembrolizumab + Carboplatin + Pemetrexed,PD(L)1 + Other,0,0,1,78,PD,17%,1,78
+,,,,1,1,Columbia University,SU2CLC-COL-1023,,,SU2CLC-COL-1023-T1,Keep,47,M,,2,120,Adeno,,4,,0.9,,22C3,,,-75,1,Pembrolizumab,PD(L)1,0,0,1,106,SD,17%,0,197
+1,,1,1,,1,Columbia University,SU2CLC-COL-1025,SU2CLC-COL-1025-T1,SU2CLC-COL-1025-N1,SU2CLC-COL-1025-T1,Keep,64,M,,1,30,Squamous,,3,,0.75,,22C3,,,,1,Pembrolizumab,PD(L)1,0,0,0,155,PR,-50%,0,155
+,,,1,,1,Columbia University,SU2CLC-COL-1026,,,SU2CLC-COL-1026-T1,Keep,67,M,0,1,41,Adeno,,3,B,,,,BRAF,Illumina MiSeq,,2,Pembrolizumab,PD(L)1,1,0,1,89,PD,28%,1,285
+,,,1,,1,Columbia University,SU2CLC-COL-1027,,,SU2CLC-COL-1027-T1,Keep,55,M,,1,60,Squamous,,3,A,0.6,,22C3,,,-26,2,Pembrolizumab,PD(L)1,1,0,1,105,PD,77%,0,296
+,1,1,,1,1,Columbia University,SU2CLC-COL-1029,SU2CLC-COL-1029-T1,SU2CLC-COL-1029-N1,SU2CLC-COL-1029-T1,Keep,71,F,0,0,0,Adeno,,4,,,,,,,,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,486,PR,-72%,0,510
+1,,1,1,,1,Columbia University,SU2CLC-COL-1031,SU2CLC-COL-1031-T1,SU2CLC-COL-1031-N1,SU2CLC-COL-1031-T1,Keep,69,F,2,1,35,Adeno,,,,,,,,,,1,Pembrolizumab,PD(L)1,0,0,1,91,SD,-8%,1,190
+,,,,1,1,Columbia University,SU2CLC-COL-1032,,,SU2CLC-COL-1032-T1,Keep,55,F,2,2,,Adeno,,,,0.9,,22C3,KRAS,Ventana,,1,Pembrolizumab,PD(L)1,0,0,1,68,SD,-27%,0,388
+,1,1,,1,1,Columbia University,SU2CLC-COL-1033,SU2CLC-COL-1033-T1,SU2CLC-COL-1033-N1,SU2CLC-COL-1033-T1,Keep,64,M,,1,4,Adeno,,4,,0.3,,22C3,BRAF,Foundation One,-83,2,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,1,0,0,337,SD,-10%,0,337
+1,,1,1,,1,Columbia University,SU2CLC-COL-1034,SU2CLC-COL-1034-T1,SU2CLC-COL-1034-N1,SU2CLC-COL-1034-T1,Keep,70,F,,1,10,Adeno,,4,,0.9,,22C3,KRAS,CUMC NGS,-40,1,Pembrolizumab,PD(L)1,0,0,0,232,SD,0%,0,232
+,1,1,,1,1,Columbia University,SU2CLC-COL-1035,SU2CLC-COL-1035-T1,SU2CLC-COL-1035-N1,SU2CLC-COL-1035-T1,Keep,40,F,,0,0,Adeno,,3,,,,,ALK,FISH,-482,3,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,1,1,1,70,PD,,0,367
+,,,1,,1,Columbia University,SU2CLC-COL-1036,,,SU2CLC-COL-1036-T1,Keep,49,M,2,1,20,Adeno,,4,,0.8,,22C3,,Ventana,,1,Pembrolizumab,PD(L)1,0,0,0,384,CR,-100%,0,384
+,1,1,,1,1,Columbia University,SU2CLC-COL-1037,SU2CLC-COL-1037-T1,SU2CLC-COL-1037-N1,SU2CLC-COL-1037-T1,Keep,55,F,,1,25,Adeno,,3,B,0.6,,,,,,2,Pembrolizumab,PD(L)1,1,0,0,478,PR,,0,478
+,,,1,,1,Columbia University,SU2CLC-COL-1038,,,SU2CLC-COL-1038-T1,Flag,51,F,3,0,0,Adeno,,1,B,0.5,,22C3,,Ventana,,3,Durvalumab + Tremelimumab,PD(L)1 + CTLA4,1,0,,,PD,73%,1,493
+,,,1,,1,Columbia University,SU2CLC-COL-1039,,,SU2CLC-COL-1039-T2,Keep,79,M,0,1,50,Squamous,,3,,0.5,,22C3,,Ventana,,1,Pembrolizumab,PD(L)1,0,0,1,205,PR,-71%,0,483
+,,,,1,1,Columbia University,SU2CLC-COL-1041,,,SU2CLC-COL-1041-T1,Keep,73,M,2,1,60,Adeno,,4,,,,,,,,1,Pembrolizumab,PD(L)1,0,0,1,311,SD,-23%,1,575
+1,,1,,,,Columbia University,SU2CLC-COL-1042,SU2CLC-COL-1042-T1,SU2CLC-COL-1042-N1,,,64,F,,1,,Adeno,,3,A,0.5,,22C3,,Ventana,,2,Nivolumab,PD(L)1,1,0,1,153,CR,-100%,0,257
+,,,,1,1,Columbia University,SU2CLC-COL-1043,,,SU2CLC-COL-1043-T2,Keep,68,F,0,1,53,Adeno,,3,A,,,,BRAF,,,2,Nivolumab,PD(L)1,1,0,,,SD,-24%,0,701
+,,,1,,1,Columbia University,SU2CLC-COL-1044,,,SU2CLC-COL-1044-T1,Keep,77,F,0,1,50,Adeno,,4,,0.05,,22C3,,Ventana,,1,Pembrolizumab,PD(L)1,0,0,1,56,PD,47%,0,138
+1,,1,,,,Columbia University,SU2CLC-COL-1045,SU2CLC-COL-1045-T1,SU2CLC-COL-1045-N1,,,70,F,0,1,,Other,Sarcomatoid,1,B,,,,KRAS,Illumina MiSeq,-252,2,Pembrolizumab,PD(L)1,1,0,0,639,PR,,0,639
+,,,1,,1,Columbia University,SU2CLC-COL-1047,,,SU2CLC-COL-1047-T1,Keep,69,M,2,2,25,Adeno,,4,,,,,,,,1,Pembrolizumab,PD(L)1,0,0,,,,,1,42
+,,,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-1001,,,SU2CLC-DFC-1001-T1,Keep,51,M,0,0,0,Adeno,,4,B,,,,HER2,DFCI OncoPanel,-555,4,Nivolumab,PD(L)1,1,0,,,PD,24%,1,236
+1,,1,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-1002,SU2CLC-DFC-1002-T1,SU2CLC-DFC-1002-N1,SU2CLC-DFC-1002-T1,Keep,48,F,0,0,0,Adeno,,4,A,0.01,,E1L3N,EGFR,DFCI OncoPanel,-826,4,Nivolumab,PD(L)1,1,1,1,58,PD,,0,1108
+1,,1,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-1003,SU2CLC-DFC-1003-T1,SU2CLC-DFC-1003-N1,SU2CLC-DFC-1003-T1,Keep,73,F,0,0,0,Other,Multiple primary tumors,4,B,,,,,,-1689,4,Nivolumab,PD(L)1,1,0,1,56,PD,,1,132
+1,,1,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-1004,SU2CLC-DFC-1004-T1,SU2CLC-DFC-1004-N1,SU2CLC-DFC-1004-T1,Keep,61,M,0,1,22,Adeno,,3,A,,,,KRAS,DFCI OncoPanel,-147,2,Nivolumab,PD(L)1,1,0,1,111,PD,28%,1,363
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-1005,SU2CLC-DFC-1005-T1,SU2CLC-DFC-1005-N1,,,67,F,1,0,0,Adeno,,4,B,,,,EGFR,EGFR PCR,-1685,3,Nivolumab,PD(L)1,1,1,1,34,PD,75%,1,339
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-1006,SU2CLC-DFC-1006-T1,SU2CLC-DFC-1006-N1,,,72,F,0,2,50,Other,Multiple primary tumors,1,B,,,,None,,-223,2,Nivolumab,PD(L)1,1,0,1,56,PD,,1,656
+1,,1,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-1007,SU2CLC-DFC-1007-T1,SU2CLC-DFC-1007-N1,SU2CLC-DFC-1007-T1,Keep,68,M,0,1,3,Adeno,,4,A,,,,EGFR,DFCI OncoPanel,-632,5,Nivolumab,PD(L)1,1,1,1,4,PD,,1,12
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-1010,SU2CLC-DFC-1010-T1,SU2CLC-DFC-1010-N1,,,61,M,0,1,16,Adeno,,4,B,,,,HER2,DFCI OncoPanel,-1299,4,Nivolumab,PD(L)1,1,1,1,119,PD,,1,302
+,,,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-1012,,,SU2CLC-DFC-1012-T1,Keep,79,F,0,1,3,Other,Large cell carcinoma,3,A,,,,None,DFCI OncoPanel,-1530,2,Nivolumab,PD(L)1,1,0,1,58,PR,-58%,0,1017
+1,,1,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-1013,SU2CLC-DFC-1013-T1,SU2CLC-DFC-1013-N1,SU2CLC-DFC-1013-T1,Keep,60,M,0,2,20,Adeno,,4,A,0,,,KRAS,DFCI OncoPanel,-293,3,Nivolumab,PD(L)1,1,0,1,32,PD,,1,32
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-1014,SU2CLC-DFC-1014-T1,SU2CLC-DFC-1014-N1,,,59,M,0,1,52,Squamous,,1,A,,,,PIK3CA,DFCI OncoPanel,-168,2,Nivolumab,PD(L)1,1,0,1,45,PD,138%,1,63
+,,,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-1015,,,SU2CLC-DFC-1015-T2,Keep,62,M,0,2,,Adeno,,1,A,,,,"KRAS, BRAF",DFCI OncoPanel,-193,2,Nivolumab,PD(L)1,1,0,1,56,PD,59%,1,193
+1,,1,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-1016,SU2CLC-DFC-1016-T1,SU2CLC-DFC-1016-N1,SU2CLC-DFC-1016-T1,Keep,72,F,0,1,50,Squamous,,4,B,0.4,,E1L3N,None,DFCI OncoPanel,-17,1,Nivolumab,PD(L)1,0,0,1,512,SD,-18%,1,713
+,,,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-1017,,,SU2CLC-DFC-1017-T2,Keep,48,F,0,2,68,Adeno,,4,B,0,,,None,DFCI OncoPanel,-2235,8,Nivolumab,PD(L)1,1,0,,,PD,,1,741
+1,,1,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-1018,SU2CLC-DFC-1018-T1,SU2CLC-DFC-1018-N1,SU2CLC-DFC-1018-T1,Keep,46,F,1,0,0,Adeno,,4,B,,,,EGFR,DFCI OncoPanel,-2084,5,Nivolumab + Lirilumab,PD(L)1 + Other,1,1,1,96,PD,,1,96
+,,,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-1019,,,SU2CLC-DFC-1019-T1,Keep,55,F,0,2,40,Adeno,,2,B,,,,KRAS ,DFCI OncoPanel,-432,2,Nivolumab + Lirilumab,PD(L)1 + Other,1,0,1,178,SD,,1,298
+1,,1,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-1020,SU2CLC-DFC-1020-T1,SU2CLC-DFC-1020-N1,SU2CLC-DFC-1020-T1,Keep,44,F,0,0,0,Adeno,,3,B,0.2,,E1L3N,KRAS,DFCI OncoPanel,-67,1,Nivolumab,PD(L)1,0,0,0,1162,PR,-33%,0,1162
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-1423,SU2CLC-DFC-1423-T1,SU2CLC-DFC-1423-N1,,,72,M,0,2,75,Squamous,,4,A,,,,None,DFCI OncoPanel,-85,2,Nivolumab,PD(L)1,1,0,0,1008,PR,-72%,0,1008
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-1425,SU2CLC-DFC-1425-T1,SU2CLC-DFC-1425-N1,,,66,M,0,1,28,Adeno,,4,A,0.25,20-30%,E1L3N,RET,DFCI OncoPanel,-578,3,Nivolumab,PD(L)1,1,0,1,341,SD,16%,1,341
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-1427,SU2CLC-DFC-1427-T1,SU2CLC-DFC-1427-N1,,,66,F,0,2,50,Adeno,,4,B,,,,,,-187,2,Nivolumab,PD(L)1,1,0,1,56,PD,,1,205
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-1429,SU2CLC-DFC-1429-T1,SU2CLC-DFC-1429-N1,,,58,M,0,2,60,Adeno,,4,B,,,,None,DFCI OncoPanel,-444,4,Nivolumab,PD(L)1,1,0,1,523,PR,-48%,1,619
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-1436,SU2CLC-DFC-1436-T1,SU2CLC-DFC-1436-N1,,,75,F,0,1,32,Adeno,,3,A,,Positive,,"EGFR, BRAF",DFCI OncoPanel,-1392,5,Pembrolizumab,PD(L)1,1,1,1,779,PR,-61%,0,971
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-1437,SU2CLC-DFC-1437-T1,SU2CLC-DFC-1437-N1,,,70,F,0,1,26,Adeno,,4,B,0.05,,E1L3N,KRAS,DFCI OncoPanel,-1109,4,Pembrolizumab,PD(L)1,1,1,1,217,SD,,1,333
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-1513,SU2CLC-DFC-1513-T1,SU2CLC-DFC-1513-N1,,,66,F,0,1,20,Adeno,,3,A,0,,E1L3N,None,DFCI OncoPanel,-425,2,Pembrolizumab,PD(L)1,1,0,1,46,SD,,0,602
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-1515,SU2CLC-DFC-1515-T1,SU2CLC-DFC-1515-N1,,,63,F,0,1,35,Adeno,,4,B,,,,None,DFCI OncoPanel,-178,2,Nivolumab,PD(L)1,1,0,1,70,SD,5%,0,298
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-1516,SU2CLC-DFC-1516-T1,SU2CLC-DFC-1516-N1,,,62,M,1,1,30,Adeno,,3,B,0.9,,E1L3N,PIK3CA,DFCI OncoPanel,-650,2,Pembrolizumab,PD(L)1,1,0,1,86,PD,,0,355
+,,,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-1534,,,SU2CLC-DFC-1534-T1,Keep,72,M,0,1,4,Adeno,,4,B,0.6,,E1L3N,None,DFCI OncoPanel,-89,2,Nivolumab,PD(L)1,1,0,1,10,PD,,1,10
+1,,1,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-1535,SU2CLC-DFC-1535-T1,SU2CLC-DFC-1535-N1,SU2CLC-DFC-1535-T1,Keep,62,F,0,2,70,Squamous,,4,B,0.2,,E1L3N,None,DFCI OncoPanel,-112,3,Pembrolizumab,PD(L)1,1,0,1,72,PR,-38%,1,120
+1,,1,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-1536,SU2CLC-DFC-1536-T1,SU2CLC-DFC-1536-N1,SU2CLC-DFC-1536-T1,Keep,70,F,0,1,15,Adeno,,4,A,0.05,,E1L3N,KRAS,DFCI OncoPanel,-291,2,Pembrolizumab,PD(L)1,1,0,1,331,PR,-32%,1,392
+,,,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-1537,,,SU2CLC-DFC-1537-T1,Keep,62,F,0,2,30,Adeno,,1,A,0.5,,E1L3N,KRAS,DFCI OncoPanel,-411,2,Pembrolizumab,PD(L)1,1,0,0,483,PR,-80%,0,483
+,,,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-1538,,,SU2CLC-DFC-1538-T1,Keep,61,M,0,1,60,Adeno,,4,B,0.01,,E1L3N,None,DFCI OncoPanel,-228,2,Pembrolizumab,PD(L)1,1,0,1,56,PD,,1,67
+1,,1,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-1539,SU2CLC-DFC-1539-T1,SU2CLC-DFC-1539-N1,SU2CLC-DFC-1539-T1,Keep,70,M,0,1,100,Adeno,,4,B,,,,None,DFCI OncoPanel,-158,2,Nivolumab,PD(L)1,1,0,1,315,SD,1%,1,386
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0031,SU2CLC-DFC-DF0031-T1,SU2CLC-DFC-DF0031-N1,,,62,F,0,1,10,Adeno,,2,A,0,,22C3,KRAS,DFCI OncoPanel,-2276,5,Nivolumab,PD(L)1,1,1,0,812,SD,,0,812
+,,,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0032,,,SU2CLC-DFC-DF0032-T1,Keep,78,M,0,1,80,Other,NOS carcinoma,4,A,,,,None,DFCI OncoPanel,-158,2,Nivolumab,PD(L)1,1,0,1,140,SD,-17%,1,266
+1,,1,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0033,SU2CLC-DFC-DF0033-T1,SU2CLC-DFC-DF0033-N1,SU2CLC-DFC-DF0033-T1,Keep,60,F,0,1,20,Adeno,,1,B,,,,KRAS,DFCI OncoMap,-475,3,Nivolumab,PD(L)1,1,0,1,42,PD,41%,1,560
+1,,1,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0047,SU2CLC-DFC-DF0047-T1,SU2CLC-DFC-DF0047-N1,SU2CLC-DFC-DF0047-T1,Keep,68,M,0,1,30,Squamous,,3,A,0.49,,E1L3N,None,DFCI OncoPanel,,1,Nivolumab,PD(L)1,0,0,1,73,SD,0%,0,909
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0050,SU2CLC-DFC-DF0050-T1,SU2CLC-DFC-DF0050-N1,,,59,M,3,1,5,Adeno,,4,,,,,,,-703,3,Nivolumab,PD(L)1,1,1,0,35,SD,-5%,0,42
+,,,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0107,,,SU2CLC-DFC-DF0107-T1,Keep,55,F,3,1,30,Adeno,,4,,,,,None,DFCI OncoPanel,-78,2,Nivolumab,PD(L)1,1,0,1,161,SD,0%,1,494
+,,,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0108,,,SU2CLC-DFC-DF0108-T1,Keep,70,M,0,1,28,Adeno,,3,A,,,,KRAS,DFCI OncoPanel,-516,1,Nivolumab,PD(L)1,0,0,1,262,SD,-11%,0,1088
+1,,1,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0109,SU2CLC-DFC-DF0109-T1,SU2CLC-DFC-DF0109-N1,SU2CLC-DFC-DF0109-T1,Keep,56,M,0,1,35,Adeno,,3,A,,,,None,DFCI OncoPanel,-87,1,Nivolumab,PD(L)1,0,0,1,78,PD,,1,119
+,,,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0112,,,SU2CLC-DFC-DF0112-T1,Keep,62,F,0,1,15,Adeno,,4,,0.02,,E1L3N,KRAS,DFCI OncoPanel,-219,2,Nivolumab,PD(L)1,1,0,1,125,SD,4%,1,610
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0240,SU2CLC-DFC-DF0240-T1,SU2CLC-DFC-DF0240-N1,,,63,M,0,2,50,Adeno,,4,A,,,,BRAF,DFCI OncoPanel,-441,3,Nivolumab,PD(L)1,1,0,0,1036,PR,-36%,0,1036
+,,,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0241,,,SU2CLC-DFC-DF0241-T1,Keep,>89,F,0,1,10,Adeno,,4,,,,,EGFR,DFCI OncoPanel,-364,2,Nivolumab,PD(L)1,1,0,1,772,PR,-40%,1,937
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0288,SU2CLC-DFC-DF0288-T1,SU2CLC-DFC-DF0288-N1,,,78,F,0,1,35,Adeno,,3,A,0.3,,E1L3N,PIK3CA,DFCI OncoPanel,-12,2,Nivolumab,PD(L)1,1,0,1,63,SD,13%,1,148
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0326,SU2CLC-DFC-DF0326-T1,SU2CLC-DFC-DF0326-N1,,,72,F,0,2,75,Squamous,,2,A,,,,None,DFCI OncoPanel,0,2,Nivolumab,PD(L)1,1,0,1,55,SD,14%,1,187
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0414,SU2CLC-DFC-DF0414-T1,SU2CLC-DFC-DF0414-N1,,,67,F,0,1,38,Adeno,,1,A,0,,E1L3N,BRAF ,DFCI OncoPanel,-2279,2,Nivolumab,PD(L)1,0,0,1,227,SD,-15%,1,446
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0417,SU2CLC-DFC-DF0417-T1,SU2CLC-DFC-DF0417-N1,,,76,M,0,1,54,Adeno,,4,B,0.015,1-2%,E1L3N,MET,DFCI OncoPanel,-445,3,Pembrolizumab,PD(L)1,1,0,1,126,SD,2%,1,427
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0421,SU2CLC-DFC-DF0421-T1,SU2CLC-DFC-DF0421-N1,,,58,F,0,1,20,Adeno,,3,A,0,,E1L3N,KRAS,DFCI OncoPanel,-1515,6,Nivolumab,PD(L)1,1,0,1,60,PD,,1,477
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0438,SU2CLC-DFC-DF0438-T1,SU2CLC-DFC-DF0438-N1,,,67,M,0,0,0,Adeno,,4,,0.8,,E1L3N,EGFR,OncoPanel,-49,1,Pembrolizumab,PD(L)1,0,0,1,252,CR,-100%,0,707
+1,,1,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0499,SU2CLC-DFC-DF0499-T1,SU2CLC-DFC-DF0499-N1,SU2CLC-DFC-DF0499-T1,Keep,47,F,0,1,15,Adeno,,4,,0.95,,E1L3N,ALK,FISH,-172,2,Pembrolizumab,PD(L)1,1,0,1,132,SD,-22%,1,301
+1,,1,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0510,SU2CLC-DFC-DF0510-T1,SU2CLC-DFC-DF0510-N1,SU2CLC-DFC-DF0510-T1,Keep,52,F,0,1,40,Adeno,,4,,0.8,,E1L3N,BRAF,OncoPanel,-21,1,Pembrolizumab,PD(L)1,0,0,1,127,SD,0%,1,449
+,,,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0512,,,SU2CLC-DFC-DF0512-T1,Keep,73,F,0,1,30,Adeno,,2,A,0.8,,E1L3N,KRAS,OncoPanel,-22,1,Pembrolizumab,PD(L)1,0,0,0,464,SD,,0,464
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0531,SU2CLC-DFC-DF0531-T1,SU2CLC-DFC-DF0531-N1,,,62,M,0,2,45,Adeno,,4,,0.95,,E1L3N,None,OncoPanel,-9,1,Pembrolizumab,PD(L)1,0,0,0,642,PR,,0,664
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0537,SU2CLC-DFC-DF0537-T1,SU2CLC-DFC-DF0537-N1,,,75,M,0,0,0,Adeno,,4,,0.5,,E1L3N,None,OncoPanel,-117,2,Pembrolizumab,PD(L)1,1,0,1,106,SD,0%,1,140
+1,,1,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0561,SU2CLC-DFC-DF0561-T1,SU2CLC-DFC-DF0561-N1,SU2CLC-DFC-DF0561-T1,Keep,69,F,0,1,15,Adeno,,4,,0,,E1L3N,KRAS,OncoPanel,-891,2,Atezolizumab,PD(L)1,1,0,1,53,PD,-28%,1,102
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0582,SU2CLC-DFC-DF0582-T1,SU2CLC-DFC-DF0582-N1,,,47,M,0,1,5,Adeno,,4,,0.9,,E1L3N,RET,OncoPanel,-30,1,Pembrolizumab,PD(L)1,0,0,1,42,PD,30%,0,524
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0585,SU2CLC-DFC-DF0585-T1,SU2CLC-DFC-DF0585-N1,,,72,F,0,2,25,Adeno,,1,A,0.975,>95%,E1L3N,KRAS,DFCI OncoPanel,-118,1,Pembrolizumab,PD(L)1,0,0,1,147,PD,,1,147
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0597,SU2CLC-DFC-DF0597-T1,SU2CLC-DFC-DF0597-N1,,,62,F,0,1,40,Other,NOS carcinoma,4,,0.95,,E1L3N,KRAS,OncoPanel,-52,1,Pembrolizumab,PD(L)1,0,0,0,461,PR,-47%,0,510
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0598,SU2CLC-DFC-DF0598-T1,SU2CLC-DFC-DF0598-N1,,,76,F,0,1,50,Adeno,,4,,0.2,,E1L3N,None,OncoPanel,-150,2,Pembrolizumab,PD(L)1,1,0,1,42,PD,25%,1,530
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0599,SU2CLC-DFC-DF0599-T1,SU2CLC-DFC-DF0599-N1,,,69,M,0,1,60,Adeno,,4,,,,,HER2,OncoPanel,-92,2,Pembrolizumab,PD(L)1,1,0,1,45,PD,-10%,1,148
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0648,SU2CLC-DFC-DF0648-T1,SU2CLC-DFC-DF0648-N1,,,78,F,0,1,,Adeno,,4,B,0.95,,E1L3N,None,DFCI OncoPanel,-59,1,Pembrolizumab,PD(L)1,0,0,0,350,PR,-84%,0,350
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0659,SU2CLC-DFC-DF0659-T1,SU2CLC-DFC-DF0659-N1,,,80,M,0,1,30,Squamous,,3,B,0.3,,E1L3N,None,DFCI OncoPanel,-35,2,Nivolumab,PD(L)1,1,0,1,21,PD,,1,28
+1,,1,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0668,SU2CLC-DFC-DF0668-T1,SU2CLC-DFC-DF0668-N1,SU2CLC-DFC-DF0668-T1,Keep,74,M,0,1,40,Adeno,,4,,0.8,,E1L3N,None,DFCI OncoPanel,-258,3,Pembrolizumab,PD(L)1,1,0,1,37,PD,,1,124
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0669,SU2CLC-DFC-DF0669-T1,SU2CLC-DFC-DF0669-N1,,,56,M,3,1,1,Adeno,,4,A,0.1,,E1L3N,EGFR,DFCI OncoPanel,-119,2,Pembrolizumab,PD(L)1,1,0,1,37,PD,25%,0,329
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0691,SU2CLC-DFC-DF0691-T1,SU2CLC-DFC-DF0691-N1,,,49,F,0,2,75,Adeno,,2,A,0.7,,E1L3N,None,DFCI OncoPanel,-146,3,Pembrolizumab,PD(L)1,1,0,1,63,PD,,0,76
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0709,SU2CLC-DFC-DF0709-T1,SU2CLC-DFC-DF0709-N1,,,67,F,2,2,50,Adeno,,1,A,0.5,,E1L3N,BRAF,DFCI OncoPanel,-42,1,Pembrolizumab,PD(L)1,0,0,0,245,PR,-81%,0,245
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0732,SU2CLC-DFC-DF0732-T1,SU2CLC-DFC-DF0732-N1,,,64,M,0,1,27,Adeno,,3,A,0.25,20-30%,22C3; E1L3N,None,DFCI OncoPanel,-1037,6,Nivolumab,PD(L)1,1,0,1,384,CR,,0,1081
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0768,SU2CLC-DFC-DF0768-T1,SU2CLC-DFC-DF0768-N1,,,46,M,0,1,25,Adeno,,4,,0.5,,E1L3N,NRAS,DFCI OncoPanel,-53,1,Pembrolizumab,PD(L)1,0,0,0,579,PR,-47%,0,579
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0770,SU2CLC-DFC-DF0770-T1,SU2CLC-DFC-DF0770-N1,,,64,F,0,2,30,Adeno,,3,A,0.6,,E1L3N,KRAS,DFCI OncoPanel,-74,2,Pembrolizumab,PD(L)1,1,0,1,66,PD,,1,132
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0775,SU2CLC-DFC-DF0775-T1,SU2CLC-DFC-DF0775-N1,,,52,F,0,2,52,Adeno,,4,B,0,,E1L3N,PIK3CA,DFCI OncoPanel,-309,2,Nivolumab,PD(L)1,1,0,1,63,PD,,0,75
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0777,SU2CLC-DFC-DF0777-T1,SU2CLC-DFC-DF0777-N1,,,60,F,0,1,60,Adeno,,2,A,0.4,,E1L3N,None,DFCI OncoPanel,-800,3,Pembrolizumab,PD(L)1,1,0,1,36,PD,,1,36
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0778,SU2CLC-DFC-DF0778-T1,SU2CLC-DFC-DF0778-N1,,,87,F,0,1,50,Adeno,,4,,0.02,,E1L3N,HRAS,OncoPanel,-51,2,Nivolumab,PD(L)1,0,0,1,154,SD,-15%,1,311
+1,,1,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0790,SU2CLC-DFC-DF0790-T1,SU2CLC-DFC-DF0790-N1,SU2CLC-DFC-DF0790-T1,Keep,65,F,0,1,4,Adeno,,4,,0,,E1L3N,None,OncoPanel,-213,2,Nivolumab,PD(L)1,1,0,0,331,PR,,0,331
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0796,SU2CLC-DFC-DF0796-T1,SU2CLC-DFC-DF0796-N1,,,63,F,1,0,0,Adeno,,4,,0,,E1L3N,EGFR,OncoPanel,-1354,5,Nivolumab,PD(L)1,1,1,1,112,SD,,0,308
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0834,SU2CLC-DFC-DF0834-T1,SU2CLC-DFC-DF0834-N1,,,84,M,0,1,30,Adeno,,4,,0.95,,E1L3N,None,OncoPanel,-13,1,Pembrolizumab,PD(L)1,0,0,0,285,PR,,0,316
+1,,1,1,,1,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0840,SU2CLC-DFC-DF0840-T1,SU2CLC-DFC-DF0840-N1,SU2CLC-DFC-DF0840-T1,Keep,54,F,0,1,,Adeno,,3,A,0.6,,E1L3N,KRAS,TGTP-pnlA,-37,1,Pembrolizumab,PD(L)1,0,0,1,84,PD,,0,271
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0881,SU2CLC-DFC-DF0881-T1,SU2CLC-DFC-DF0881-N1,,,59,F,0,1,30,Adeno,,4,,0.8,,E1L3N,KRAS,OncoPanel,-154,2,Pembrolizumab,PD(L)1,1,0,0,210,SD,,0,231
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0899,SU2CLC-DFC-DF0899-T1,SU2CLC-DFC-DF0899-N1,,,46,F,0,1,38,Other,NOS carcinoma,4,,0.8,,E1L3N,None,OncoPanel,-18,1,Pembrolizumab,PD(L)1,0,0,1,167,SD,,1,547
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0902,SU2CLC-DFC-DF0902-T1,SU2CLC-DFC-DF0902-N1,,,70,F,0,1,25,Adeno,,1,B,0.6,,E1L3N,None,OncoPanel,-813,1,Pembrolizumab,PD(L)1,0,0,0,214,SD,,0,214
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0908,SU2CLC-DFC-DF0908-T1,SU2CLC-DFC-DF0908-N1,,,61,F,0,2,20,Adeno,,4,,0.9,,E1L3N,KRAS,OncoPanel,-72,1,Pembrolizumab,PD(L)1,0,0,0,268,PR,,0,294
+1,,1,,,,Dana-Farber Cancer Institute,SU2CLC-DFC-DF0910,SU2CLC-DFC-DF0910-T1,SU2CLC-DFC-DF0910-N1,,,75,M,0,1,40,Adeno,,4,,0,,E1L3N,EGFR,OncoPanel,-88,2,Atezolizumab,PD(L)1,1,0,,,PD,,0,220
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0001,SU2CLC-JHU-0001-T1,SU2CLC-JHU-0001-N1,,,52,M,0,2,60,LC-NE,,4,,,,,,,-729,5,Nivolumab,PD(L)1,1,0,1,61,PD,,1,61
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0002,SU2CLC-JHU-0002-T1,SU2CLC-JHU-0002-N1,,,58,F,2,1,48,Squamous,,2,B,,,,,,-269,2,Nivolumab,PD(L)1,1,0,1,74,PD,13%,1,103
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0003,SU2CLC-JHU-0003-T1,SU2CLC-JHU-0003-N1,,,53,M,0,1,40,Squamous,,2,B,,,,,,-56,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,421,PR,-73%,1,469
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0004,SU2CLC-JHU-0004-T1,SU2CLC-JHU-0004-N1,,,55,M,0,2,80,Other,NSCLC NOS poorly differentiated ,3,A,,,,None,Neogenomics,-115,2,Nivolumab,PD(L)1,1,0,1,167,SD,-20%,1,385
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0005,SU2CLC-JHU-0005-T1,SU2CLC-JHU-0005-N1,,,56,F,2,1,40,Adeno,,4,,,,,KRAS,Local hospital PCR,-448,3,Nivolumab,PD(L)1,1,0,1,277,PR,-86%,1,711
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0006,SU2CLC-JHU-0006-T1,SU2CLC-JHU-0006-N1,,,48,M,0,1,35,Squamous,,2,A,,,,,,-515,3,Nivolumab,PD(L)1,1,0,,,PR,-58%,0,2779
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0007,SU2CLC-JHU-0007-T1,SU2CLC-JHU-0007-N1,,,69,F,0,1,15,Adeno,Mucinous,2,A,,,,None,Local hospital PCR,-185,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,,,CR,-100%,0,1799
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0008,SU2CLC-JHU-0008-T1,SU2CLC-JHU-0008-N1,,,58,M,0,2,40,Squamous,,3,A,,,,,,-243,2,Nivolumab,PD(L)1,1,0,1,830,PR,-48%,1,1260
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0009,SU2CLC-JHU-0009-T1,SU2CLC-JHU-0009-N1,,,62,F,0,1,3,Squamous,,3,B,,,,,,-36,2,Nivolumab,PD(L)1,1,0,1,109,SD,,1,157
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0010,SU2CLC-JHU-0010-T1,SU2CLC-JHU-0010-N1,,,86,M,0,1,104,Adeno,Mucinous,4,,,,,KRAS,PGDX,-153,1,Nivolumab,PD(L)1,0,0,1,259,SD,,1,381
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0011,SU2CLC-JHU-0011-T1,SU2CLC-JHU-0011-N1,,,42,M,0,1,7,Adeno,,4,,,,,TP53,PGDX,-55,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,242,PR,-42%,1,369
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0012,SU2CLC-JHU-0012-T1,SU2CLC-JHU-0012-N1,,,75,F,0,1,50,Squamous,,3,A,,,,,,-12,1,Nivolumab,PD(L)1,0,0,1,182,SD,12%,1,367
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0013,SU2CLC-JHU-0013-T1,SU2CLC-JHU-0013-N1,,,72,M,0,1,25,Squamous,,3,B,,,,"HER3, PIK3CA, TP53",Foundation,0,2,Nivolumab,PD(L)1,1,0,1,84,CR,-100%,0,1078
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0015,SU2CLC-JHU-0015-T1,SU2CLC-JHU-0015-N1,,,61,F,2,1,20,Adeno,,4,,,,,KRAS ,JHU Ion Torrent,-197,2,Nivolumab,PD(L)1,1,0,,,SD,,1,21
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0017,SU2CLC-JHU-0017-T1,SU2CLC-JHU-0017-N1,,,54,F,0,1,20,Adeno,,4,,,,,None,Local hospital PCR,-470,3,Nivolumab,PD(L)1,1,0,1,117,PR,,1,245
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0018,SU2CLC-JHU-0018-T1,SU2CLC-JHU-0018-N1,,,53,M,2,1,30,Squamous,,4,,,,,,,-699,3,Nivolumab,PD(L)1,1,0,1,287,SD,17%,1,444
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0019,SU2CLC-JHU-0019-T1,SU2CLC-JHU-0019-N1,,,65,F,0,1,20,Adeno,,4,,,,,KRAS,JHU Ion Torrent,-362,2,Nivolumab,PD(L)1,1,0,1,547,PR,-41%,1,701
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0020,SU2CLC-JHU-0020-T1,SU2CLC-JHU-0020-N1,,,65,F,2,2,45,Squamous,,1,A,,,,,,-348,2,Nivolumab,PD(L)1,1,0,1,300,SD,-3%,1,
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0021,SU2CLC-JHU-0021-T1,SU2CLC-JHU-0021-N1,,,54,M,0,1,80,Adeno,,3,A,,,,,,-136,3,Nivolumab,PD(L)1,1,0,1,359,SD,-22%,1,359
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0024,SU2CLC-JHU-0024-T1,SU2CLC-JHU-0024-N1,,,72,F,1,0,0,Adeno,,4,,0.5,,22C3,EGFR,JHU Ion Torrent,-300,2,Nivolumab,PD(L)1,0,1,1,67,PD,,1,173
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0025,SU2CLC-JHU-0025-T1,SU2CLC-JHU-0025-N1,,,62,M,0,1,50,Squamous,,4,,0.6,,22C3,,,-82,1,Pembrolizumab,PD(L)1,0,0,1,150,SD,,1,218
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0026,SU2CLC-JHU-0026-T1,SU2CLC-JHU-0026-N1,,,76,M,0,1,26,Squamous,,4,,,,,,,-71,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,,,PR,-33%,0,847
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0027,SU2CLC-JHU-0027-T1,SU2CLC-JHU-0027-N1,,,81,M,0,1,30,Adeno,,3,A,,,,None,JHU Ion Torrent,-27,2,Nivolumab,PD(L)1,1,0,1,42,PD,,1,72
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0028,SU2CLC-JHU-0028-T1,SU2CLC-JHU-0028-N1,,,66,M,0,1,100,Squamous,,3,B,,,,,,-21,2,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,1,0,1,42,PD,34%,1,158
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0029,SU2CLC-JHU-0029-T1,SU2CLC-JHU-0029-N1,,,65,F,0,1,60,Adeno,,3,A,,,,None,JHU Ion Torrent,-1,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,344,PR,-48%,1,344
+,1,1,,,,Johns Hopkins University,SU2CLC-JHU-0040,SU2CLC-JHU-0040-T1,SU2CLC-JHU-0040-N1,,,61,M,0,1,20,Adeno,,4,,,,,KRAS,JHU Ion Torrent,-403,2,Nivolumab,PD(L)1,1,0,1,94,PD,,1,445
+,,,1,,1,MD Anderson,SU2CLC-MDA-1441,,,SU2CLC-MDA-1441-T1,Keep,64,F,2,0,0,Adeno,,2,B,,,,KRAS,MDL,,3,Nivolumab + Urelumab,PD(L)1 + Other,1,0,1,140,PD,46%,1,235
+,,,,1,1,MD Anderson,SU2CLC-MDA-1442,,,SU2CLC-MDA-1442-T1,Flag,57,M,0,1,20,Adeno,,2,A,0,,22C3,KRAS,MDL,0,3,Nivolumab,PD(L)1,1,0,,,SD,0%,1,499
+,,,,1,1,MD Anderson,SU2CLC-MDA-1443,,,SU2CLC-MDA-1443-T1,Keep,53,M,0,1,39,Adeno,,4,,0,,22C3,,MDL,-224,3,Nivolumab,PD(L)1,1,0,1,52,PD,,0,68
+,,,,1,1,MD Anderson,SU2CLC-MDA-1444,,,SU2CLC-MDA-1444-T1,Keep,49,M,0,1,30,Squamous,,4,,,,,,,-320,3,Nivolumab,PD(L)1,1,0,1,25,PD,122%,0,163
+,,,,1,1,MD Anderson,SU2CLC-MDA-1561,,,SU2CLC-MDA-1561-T1,Keep,47,M,3,1,40,Adeno,,4,,0,,22C3,,MDL,-240,3,Pembrolizumab,PD(L)1,1,0,1,43,PD,23%,0,51
+,,,,1,1,MD Anderson,SU2CLC-MDA-1562,,,SU2CLC-MDA-1562-T1,Keep,64,M,0,1,40,Adeno,,4,,,,,KRAS,MDL,-325,3,Pembrolizumab,PD(L)1,1,0,1,47,PD,-2%,1,235
+,1,1,,1,1,MD Anderson,SU2CLC-MDA-1563,SU2CLC-MDA-1563-T1,SU2CLC-MDA-1563-N1,SU2CLC-MDA-1563-T1,Keep,47,F,0,0,0,Squamous,,3,B,0,,22C3,,MDL,-36,3,Nivolumab,PD(L)1,1,0,1,62,PD,35%,1,212
+,,,1,,1,MD Anderson,SU2CLC-MDA-1564,,,SU2CLC-MDA-1564-T1,Flag,46,M,0,0,0,Squamous,,4,,0.02,,22C3,,MDL,-1291,3,Nivolumab,PD(L)1,1,0,1,75,PD,-12%,1,404
+,,,,1,1,MD Anderson,SU2CLC-MDA-1627,,,SU2CLC-MDA-1627-T1,Keep,77,M,0,1,32,Adeno,,3,B,,,,,MDL,,2,Nivolumab,PD(L)1,1,0,1,770,PR,-100%,,
+,,,1,,1,MD Anderson,SU2CLC-MDA-1628,,,SU2CLC-MDA-1628-T1,Keep,66,M,0,0,0,Adeno,,4,,,,,EGFR,MDL,-383,2,Nivolumab,PD(L)1,0,1,1,62,SD,57%,,
+,,,1,,1,MD Anderson,SU2CLC-MDA-1629,,,SU2CLC-MDA-1629-T1,Keep,65,M,0,1,21,Squamous,,3,A,,,,,MDL,-1067,4,Nivolumab + Gemcitabine,PD(L)1 + Other,1,0,1,97,SD,42%,,
+1,,1,1,,1,MD Anderson,SU2CLC-MDA-1630,SU2CLC-MDA-1630-T1,SU2CLC-MDA-1630-N1,SU2CLC-MDA-1630-T1,Keep,80,F,0,1,42,Adeno,,2,B,,,,,MDL,-114,4,Nivolumab,PD(L)1,1,1,1,55,PD,110%,,
+1,,1,1,,1,MD Anderson,SU2CLC-MDA-1631,SU2CLC-MDA-1631-T1,SU2CLC-MDA-1631-N1,SU2CLC-MDA-1631-T1,Keep,61,M,0,1,33,Adeno,,4,,,,,EGFR,MDL,-737,2,Nivolumab,PD(L)1,1,0,1,503,PR,-85%,1,592
+,,,,1,1,Massachusetts General Hospital,SU2CLC-MGH-1044,,,SU2CLC-MGH-1044-T1,Keep,58,M,,0,0,Squamous,,4,,,,,None,Snapshot v4,-486,3,Nivolumab,PD(L)1,1,0,1,530,PR,-45%,1,1079
+1,,1,,,,Massachusetts General Hospital,SU2CLC-MGH-1048,SU2CLC-MGH-1048-T1,SU2CLC-MGH-1048-N1,,,71,M,0,1,20,Adeno,,4,,,,,MAP2K1,Snapshot NGS v1,-409,2,Nivolumab,PD(L)1,0,0,1,274,PR,-42%,1,396
+1,,1,,,,Massachusetts General Hospital,SU2CLC-MGH-1050,SU2CLC-MGH-1050-T1,SU2CLC-MGH-1050-N1,,,62,M,0,1,50,Adeno,,4,,,,,TP53,Snapshot NGS v1,-248,2,Nivolumab,PD(L)1,1,0,0,274,SD,-29%,0,1032
+1,,1,,,,Massachusetts General Hospital,SU2CLC-MGH-1051,SU2CLC-MGH-1051-T1,SU2CLC-MGH-1051-N1,,,49,F,0,1,25,Adeno,,4,,,,,"KRAS, TP53, STK11",Snapshot NGS v1,-270,2,Nivolumab,PD(L)1,1,0,1,254,SD,-28%,0,1000
+,1,1,,1,1,Massachusetts General Hospital,SU2CLC-MGH-1054,SU2CLC-MGH-1054-T1,SU2CLC-MGH-1054-N1,SU2CLC-MGH-1054-T2,Keep,58,F,0,2,25,Adeno,,4,,,,,"APC, TP53",Snapshot NGS v1,-101,2,Nivolumab,PD(L)1,1,0,0,1039,CR,-100%,0,1039
+,,,,1,1,Massachusetts General Hospital,SU2CLC-MGH-1055,,,SU2CLC-MGH-1055-T1,Flag,75,M,,1,,Squamous,,3,A,,,,"KRAS, TP53, DDR2",Snapshot NGS v1,-402,2,Nivolumab,PD(L)1,1,0,0,967,PR,-62%,0,967
+1,,1,,,,Massachusetts General Hospital,SU2CLC-MGH-1129,SU2CLC-MGH-1129-T1,SU2CLC-MGH-1129-N1,,,68,F,0,2,23,Adeno,,4,,,,,PIK3CA,Snapshot NGS v1,-210,2,Nivolumab,PD(L)1,1,0,1,280,PR,-46%,0,515
+1,,1,,,,Massachusetts General Hospital,SU2CLC-MGH-1131,SU2CLC-MGH-1131-T1,SU2CLC-MGH-1131-N1,,,58,F,0,1,52,Adeno,,4,,,,,None,Snapshot v4,-304,2,Nivolumab,PD(L)1,1,0,1,1592,PR,-80%,0,1592
+1,,1,,,,Massachusetts General Hospital,SU2CLC-MGH-1134,SU2CLC-MGH-1134-T1,SU2CLC-MGH-1134-N1,,,60,F,0,1,18,Adeno,,4,,,,,KRAS,Snapshot NGS v1,-331,2,Nivolumab,PD(L)1,1,0,0,287,PR,-40%,0,637
+,1,1,,1,1,Massachusetts General Hospital,SU2CLC-MGH-1135,SU2CLC-MGH-1135-T1,SU2CLC-MGH-1135-N1,SU2CLC-MGH-1135-T2,Keep,52,F,0,0,0,Adeno,,4,,,,,RET,Snapshot NGS v1,-634,3,Nivolumab,PD(L)1,1,0,1,25,PD,23%,1,396
+1,,1,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1148,SU2CLC-MGH-1148-T1,SU2CLC-MGH-1148-N1,SU2CLC-MGH-1148-T1,Keep,54,M,3,2,20,Squamous,,3,A,,,,TP53,Snapshot NGS v1,-17,2,Nivolumab,PD(L)1,1,0,1,138,SD,2%,1,138
+1,,1,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1149,SU2CLC-MGH-1149-T1,SU2CLC-MGH-1149-N1,SU2CLC-MGH-1149-T1,Keep,79,M,0,1,2,Adeno,,1,B,,,,None,Snapshot NGS v1,-205,2,Nivolumab,PD(L)1,1,0,1,4,PD,29%,1,95
+,,,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1150,,,SU2CLC-MGH-1150-T1,Keep,75,M,,1,60,Squamous,,4,,,,,,,-21,3,Nivolumab,PD(L)1,1,0,1,42,PD,122%,1,121
+,,,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1151,,,SU2CLC-MGH-1151-T1,Keep,71,M,0,2,30,Squamous,,3,A,,,,,,-71,2,Nivolumab,PD(L)1,1,0,1,24,,,1,43
+,,,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1158,,,SU2CLC-MGH-1158-T1,Keep,78,M,0,1,116,Squamous,,3,A,,,,,,-43,1,Nivolumab,PD(L)1,0,0,1,50,,,1,50
+1,,1,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1161,SU2CLC-MGH-1161-T1,SU2CLC-MGH-1161-N1,SU2CLC-MGH-1161-T2,Keep,73,M,3,1,26,Adeno,,3,B,0.9,,E1L3N,NF1,Snapshot NGS v1,-45,1,Pembrolizumab,PD(L)1,0,0,0,79,CR,-100%,0,361
+1,,1,,,,Massachusetts General Hospital,SU2CLC-MGH-1162,SU2CLC-MGH-1162-T1,SU2CLC-MGH-1162-N1,,,56,M,0,1,30,Squamous,,3,A,,,,TP53,Snapshot NGS v1,-320,2,Nivolumab,PD(L)1,1,0,1,71,PD,-7%,1,412
+,,,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1163,,,SU2CLC-MGH-1163-T1,Keep,71,M,0,1,60,Adeno,,1,,,,,KRAS,Snapshot v2,-1891,3,Nivolumab,PD(L)1,1,0,1,929,PR,-77%,0,936
+1,,1,,,,Massachusetts General Hospital,SU2CLC-MGH-1164,SU2CLC-MGH-1164-T1,SU2CLC-MGH-1164-N1,,,54,F,0,1,80,Adeno,,4,,,,,KRAS,Snapshot v4,-1058,3,Nivolumab,PD(L)1,1,0,0,806,CR,-100%,0,806
+1,,1,,,,Massachusetts General Hospital,SU2CLC-MGH-1166,SU2CLC-MGH-1166-T1,SU2CLC-MGH-1166-N1,,,76,M,0,1,38,Adeno,,3,A,,,,APC,Snapshot NGS v1,-309,2,Nivolumab,PD(L)1,1,0,1,168,SD,-17%,0,882
+1,,1,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1169,SU2CLC-MGH-1169-T1,SU2CLC-MGH-1169-N1,SU2CLC-MGH-1169-T1,Keep,62,M,0,1,90,Adeno,,3,A,,,,TP53,Snapshot NGS v1,-53,2,Nivolumab,PD(L)1,1,0,1,198,SD,-52%,0,758
+1,,1,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1387,SU2CLC-MGH-1387-T1,SU2CLC-MGH-1387-N1,SU2CLC-MGH-1387-T1,Keep,75,M,0,1,45,Adeno,,3,A,,,,KRAS,Snapshot v3,-216,2,Atezolizumab,PD(L)1,1,0,1,641,PR,-69%,0,1259
+,,,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1388,,,SU2CLC-MGH-1388-T1,Flag,68,M,0,1,25,Adeno,,4,,,,,"EGFR, KRAS",Smart Genomics,-473,4,Nivolumab,PD(L)1,1,1,1,426,NE,,0,744
+1,,1,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1389,SU2CLC-MGH-1389-T1,SU2CLC-MGH-1389-N1,SU2CLC-MGH-1389-T1,Keep,60,F,0,2,90,Squamous,,4,,,,,TP53,Snapshot NGS v1,-171,2,Nivolumab,PD(L)1,1,0,1,135,SD,-24%,0,630
+,,,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1409,,,SU2CLC-MGH-1409-T1,Keep,66,M,0,1,30,Squamous,,1,A,0.05,,E1L3N,STK11,Snapshot NGS v2,-301,2,Atezolizumab,PD(L)1,1,0,1,40,PD,11%,1,232
+,,,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1411,,,SU2CLC-MGH-1411-T1,Keep,57,F,0,1,8,Adeno,,3,A,,,,MET,Snapshot NGS v1,-27,2,Nivolumab,PD(L)1,1,0,1,56,PD,34%,0,1053
+1,,1,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1412,SU2CLC-MGH-1412-T1,SU2CLC-MGH-1412-N1,SU2CLC-MGH-1412-T1,Keep,75,F,0,1,5,Adeno,,4,,0.9,,E1L3N,KRAS,Snapshot NGS v2,-49,1,Pembrolizumab,PD(L)1,0,0,1,298,PR,-32%,1,298
+,,,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1413,,,SU2CLC-MGH-1413-T1,Keep,78,M,1,1,50,Adeno,,3,B,,,,KRAS,Snapshot NGS v1,-42,3,Nivolumab,PD(L)1,1,0,1,438,CR,-100%,0,595
+,,,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1414,,,SU2CLC-MGH-1414-T1,Keep,58,F,0,1,30,Adeno,,2,A,,,,"KRAS, TP53",Snapshot NGS v1,-53,2,Nivolumab,PD(L)1,1,0,0,439,CR,-100%,0,552
+1,,1,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1415,SU2CLC-MGH-1415-T1,SU2CLC-MGH-1415-N1,SU2CLC-MGH-1415-T1,Keep,70,F,0,1,19,Adeno,,4,,0.01,,E1L3N,"KRAS, BRCA2",Snapshot NGS v2,-51,1,Pembrolizumab,PD(L)1,0,0,0,286,CR,-100%,0,286
+1,,1,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1416,SU2CLC-MGH-1416-T1,SU2CLC-MGH-1416-N1,SU2CLC-MGH-1416-T1,Keep,81,M,0,1,90,Adeno,,1,B,,,,"KRAS, TP53",Snapshot NGS v1,-21,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,0,587,PR,-76%,0,587
+1,,1,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1417,SU2CLC-MGH-1417-T1,SU2CLC-MGH-1417-N1,SU2CLC-MGH-1417-T1,Keep,65,F,0,1,30,Adeno,,1,A,,,,"KRAS, TP53, STK11",Snapshot NGS v1,-27,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,565,PR,-32%,0,617
+1,,1,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1418,SU2CLC-MGH-1418-T1,SU2CLC-MGH-1418-N1,SU2CLC-MGH-1418-T1,Keep,48,F,0,0,0,LC-NE,,2,B,,,,STK11,Snapshot NGS v1,-160,3,Nivolumab,PD(L)1,1,0,0,997,PR,-92%,0,997
+,,,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1487,,,SU2CLC-MGH-1487-T1,Flag,64,F,0,1,10,Adeno,,4,,,,,"APC, TP53",Snapshot NGS v1,-250,2,Nivolumab,PD(L)1,1,0,0,982,PR,-40%,0,982
+1,,1,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1488,SU2CLC-MGH-1488-T1,SU2CLC-MGH-1488-N1,SU2CLC-MGH-1488-T1,Keep,47,F,0,1,25,Adeno,,4,,,,,TP53,Snapshot NGS v1,-218,2,Nivolumab,PD(L)1,1,0,0,924,PR,-85%,0,924
+,,,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1489,,,SU2CLC-MGH-1489-T1,Keep,63,F,,1,45,Adeno,,4,,,,,"KRAS, ERBB2",Snapshot NGS v1,-588,3,Nivolumab,PD(L)1,1,0,1,628,CR,-100%,0,833
+1,,1,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1490,SU2CLC-MGH-1490-T1,SU2CLC-MGH-1490-N1,SU2CLC-MGH-1490-T1,Keep,52,F,0,2,20,Adeno,,4,,0.8,,E1L3N,"KRAS, KEAP1",Snapshot NGS v2,-48,1,Pembrolizumab,PD(L)1,0,0,1,221,PR,-46%,1,270
+1,,1,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1492,SU2CLC-MGH-1492-T1,SU2CLC-MGH-1492-N1,SU2CLC-MGH-1492-T1,Keep,50,F,0,1,80,Squamous,,1,A,0.6,,E1L3N,"KIT, MAP3K1, TP53",Snapshot NGS v2,-16,1,Pembrolizumab,PD(L)1,0,0,1,72,SD,-45%,0,126
+,,,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1493,,,SU2CLC-MGH-1493-T1,Keep,64,F,3,1,35,Adeno,,4,,0.9,,E1L3N,"BRCA1, CDK4",Snapshot NGS v2,-46,1,Pembrolizumab,PD(L)1,0,0,0,22,SD,0%,0,139
+,,,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1495,,,SU2CLC-MGH-1495-T1,Keep,59,M,0,1,35,Adeno,,4,,,,,"KRAS, STK11",Snapshot NGS v1,-406,2,Nivolumab,PD(L)1,1,0,,,SD,-28%,1,443
+1,,1,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1498,SU2CLC-MGH-1498-T1,SU2CLC-MGH-1498-N1,SU2CLC-MGH-1498-T1,Keep,80,M,3,1,40,Squamous,,4,,0.9,,E1L3N,,,-32,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,0,598,PR,-82%,0,598
+,,,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1499,,,SU2CLC-MGH-1499-T1,Keep,78,F,0,1,5,Adeno,,4,A,0,,E1L3N,TP53,Snapshot NGS v1,-358,2,Atezolizumab,PD(L)1,1,0,1,55,NE,,1,65
+,,,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1500,,,SU2CLC-MGH-1500-T1,Keep,66,F,0,1,0,Squamous,,4,,0.95,,E1L3N,None,Snapshot NGS v2,-221,2,Pembrolizumab,PD(L)1,1,0,0,107,SD,9%,0,331
+1,,1,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1501,SU2CLC-MGH-1501-T1,SU2CLC-MGH-1501-N1,SU2CLC-MGH-1501-T1,Keep,62,M,0,1,18,Adeno,,3,A,,,,"KRAS, STK11",Snapshot NGS v1,-84,1,Nivolumab,PD(L)1,0,0,1,50,PD,-28%,0,604
+1,,1,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1503,SU2CLC-MGH-1503-T1,SU2CLC-MGH-1503-N1,SU2CLC-MGH-1503-T1,Keep,57,F,0,2,11,Squamous,,4,,0.75,,E1L3N,"KRAS, TP53",Snapshot NGS v2,-78,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,0,28,PR,-35%,0,485
+1,,1,,,,Massachusetts General Hospital,SU2CLC-MGH-1511,SU2CLC-MGH-1511-T1,SU2CLC-MGH-1511-N1,,,71,F,0,1,30,Squamous,,4,,,,,KRAS,Snapshot NGS v2,-245,2,Nivolumab,PD(L)1,1,0,1,368,PR,-38%,0,852
+1,,1,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1565,SU2CLC-MGH-1565-T1,SU2CLC-MGH-1565-N1,SU2CLC-MGH-1565-T1,Keep,79,M,0,1,90,Squamous,,,,0.5,,E1L3N,KEAP1 ,Snapshot NGS v2,-19,1,Pembrolizumab,PD(L)1,0,0,0,199,PR,-55%,0,199
+,,,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1567,,,SU2CLC-MGH-1567-T1,Keep,65,M,0,1,80,Adeno,,4,,0.4,,E1L3N,"KRAS, STK11",Snapshot NGS v2,-112,2,Nivolumab,PD(L)1,1,0,1,28,,,0,62
+1,,1,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1568,SU2CLC-MGH-1568-T1,SU2CLC-MGH-1568-N1,SU2CLC-MGH-1568-T1,Keep,68,F,0,1,60,Adeno,,4,,0.9,,E1L3N,TP53,Snapshot NGS v2,-9,1,Pembrolizumab,PD(L)1,0,0,1,43,PD,-2%,0,188
+1,,1,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1572,SU2CLC-MGH-1572-T1,SU2CLC-MGH-1572-N1,SU2CLC-MGH-1572-T1,Keep,63,M,0,2,20,Adeno,,4,,0,,E1L3N,KEAP1,Snapshot NGS v1,-204,2,Atezolizumab,PD(L)1,1,0,1,81,PD,16%,0,160
+,,,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1573,,,SU2CLC-MGH-1573-T1,Keep,76,F,0,1,10,Adeno,,4,,,,,KRAS,Snapshot NGS v1,-549,2,Atezolizumab,PD(L)1,1,0,0,230,NE,,0,230
+,,,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1574,,,SU2CLC-MGH-1574-T1,Keep,68,M,0,1,40,Adeno,,3,B,,,,TP53,Oncopanel,-17,1,Pembrolizumab,PD(L)1,0,0,0,609,PR,-46%,0,609
+1,,1,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1575,SU2CLC-MGH-1575-T1,SU2CLC-MGH-1575-N1,SU2CLC-MGH-1575-T1,Keep,62,F,0,2,30,Adeno,,4,,0.15,,E1L3N,"KRAS, TP53, STK11",Snapshot NGS v2,-150,2,Pembrolizumab,PD(L)1,1,0,1,52,PD,,1,99
+,,,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1576,,,SU2CLC-MGH-1576-T1,Keep,55,F,0,1,30,Adeno,,,,0.01,,E1L3N,NRAS,Snapshot NGS v2,-430,2,Pembrolizumab,PD(L)1,1,0,0,13,,,0,13
+,,,1,,1,Massachusetts General Hospital,SU2CLC-MGH-1577,,,SU2CLC-MGH-1577-T1,Keep,65,F,0,1,38,Adeno,,3,A,0,,E1L3N,TP53,Snapshot NGS v1,-324,2,Atezolizumab,PD(L)1,1,0,0,34,,,0,34
+1,,1,,,,Massachusetts General Hospital,SU2CLC-MGH-1578,SU2CLC-MGH-1578-T1,SU2CLC-MGH-1578-N1,,,74,F,0,1,30,Adeno,,4,,0,,E1L3N,"KRAS, STK11",Snapshot NGS v2,-11,1,Pembrolizumab,PD(L)1,0,0,1,18,PD,,1,103
+1,,1,,,,Massachusetts General Hospital,SU2CLC-MGH-1619,SU2CLC-MGH-1619-T1,SU2CLC-MGH-1619-N1,,,67,M,0,1,10,Adeno,,4,,0.01,,E1L3N,"KRAS, STK11",Snapshot NGS v2,-225,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,220,PR,-40%,0,382
+1,,1,,,,Massachusetts General Hospital,SU2CLC-MGH-1623,SU2CLC-MGH-1623-T1,SU2CLC-MGH-1623-N1,,,74,F,0,2,50,Adeno,,4,,0.9,,E1L3N,KRAS,Snapshot NGS v2,-17,1,Pembrolizumab,PD(L)1,0,0,1,58,PD,-41%,0,164
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1021,SU2CLC-MSK-1021-T1,SU2CLC-MSK-1021-N1,,,65,F,0,1,15,Adeno,,4,A,0,,22C3,KRAS,MSK-IMPACT,-336,2,Nivolumab,PD(L)1,0,0,1,47,PD,45%,1,180
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1023,SU2CLC-MSK-1023-T1,SU2CLC-MSK-1023-N1,,,87,F,0,0,0,Adeno,,1,A,,,,EGFR,MSK-IMPACT,-1000,5,Nivolumab,PD(L)1,1,1,1,260,SD,2%,1,633
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1024,SU2CLC-MSK-1024-T1,SU2CLC-MSK-1024-N1,,,29,F,1,0,0,Adeno,,3,A,0,,22C3,,MSK-IMPACT,-364,3,Nivolumab,PD(L)1,1,1,1,91,PD,26%,1,168
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1025,SU2CLC-MSK-1025-T1,SU2CLC-MSK-1025-N1,,,66,F,0,1,23,Adeno,,4,A,0.5,,22C3,EGFR,MSK-IMPACT,-521,3,Nivolumab,PD(L)1,1,1,1,164,SD,-6%,0,947
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1026,SU2CLC-MSK-1026-T1,SU2CLC-MSK-1026-N1,,,54,M,1,1,36,Adeno,,3,A,0.1,,22C3,,MSK-IMPACT,-1533,6,Nivolumab,PD(L)1,1,0,1,631,PR,-49%,1,637
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1029,SU2CLC-MSK-1029-T1,SU2CLC-MSK-1029-N1,,,59,F,0,2,23,Adeno,,4,A,,,,,MSK-IMPACT,-435,2,Nivolumab,PD(L)1,1,0,1,53,PD,13%,0,475
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1033,SU2CLC-MSK-1033-T1,SU2CLC-MSK-1033-N1,,,53,F,0,0,0,Adeno,,3,A,0,,22C3,,MSK-IMPACT,-399,3,Nivolumab,PD(L)1,0,0,1,20,PD,20%,1,21
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1036,SU2CLC-MSK-1036-T1,SU2CLC-MSK-1036-N1,,,58,M,3,1,44,Squamous,,2,A,,,,,MSK-IMPACT,-151,2,Nivolumab,PD(L)1,0,0,1,97,PD,89%,1,319
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1037,SU2CLC-MSK-1037-T1,SU2CLC-MSK-1037-N1,,,66,F,0,1,45,Squamous,,4,A,0.5,,22C3,,MSK-IMPACT,-232,2,Nivolumab,PD(L)1,1,0,1,55,SD,4%,1,210
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1038,SU2CLC-MSK-1038-T1,SU2CLC-MSK-1038-N1,,,65,F,0,1,88,LC-NE,,4,A,,,,HRAS,MSK-IMPACT,-263,3,Nivolumab,PD(L)1,1,0,1,140,SD,,1,205
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1077,SU2CLC-MSK-1077-T1,SU2CLC-MSK-1077-N1,,,64,F,0,1,9,Adeno,,3,B,,,,ROS1,MSK-IMPACT,-461,3,Nivolumab,PD(L)1,1,1,1,62,PD,,1,133
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1078,SU2CLC-MSK-1078-T1,SU2CLC-MSK-1078-N1,,,46,F,0,1,20,Adeno,,4,A,0.5,,22C3,KRAS,MSK-IMPACT,-660,2,Nivolumab,PD(L)1,1,0,1,111,SD,-9%,1,390
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1079,SU2CLC-MSK-1079-T1,SU2CLC-MSK-1079-N1,,,64,M,0,1,40,Squamous,,3,A,0.01,,22C3,,MSK-IMPACT,-21,1,Nivolumab,PD(L)1,0,0,1,75,PD,,1,75
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1080,SU2CLC-MSK-1080-T1,SU2CLC-MSK-1080-N1,,,63,F,0,1,30,Adeno,,3,A,0,,E1L3N,,MSK-IMPACT,-78,2,Nivolumab,PD(L)1,1,0,1,554,PR,-44%,0,789
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1081,SU2CLC-MSK-1081-T1,SU2CLC-MSK-1081-N1,,,61,M,0,0,0,Adeno,,3,A,0,,22C3,,MSK-IMPACT,-17,1,Nivolumab,PD(L)1,0,0,1,105,SD,0%,1,626
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1082,SU2CLC-MSK-1082-T1,SU2CLC-MSK-1082-N1,,,78,M,0,1,9,Adeno,,2,A,,,,KRAS,MSK-IMPACT,-110,2,Nivolumab,PD(L)1,0,0,0,741,PR,-57%,0,742
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1084,SU2CLC-MSK-1084-T1,SU2CLC-MSK-1084-N1,,,66,M,2,0,0,Squamous,,4,A,0,,22C3,,MSK-IMPACT,-257,2,Nivolumab,PD(L)1,1,0,1,50,PD,38%,1,657
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1085,SU2CLC-MSK-1085-T1,SU2CLC-MSK-1085-N1,,,73,F,0,1,50,Squamous,,4,A,,,,,MSK-IMPACT,-221,2,Nivolumab,PD(L)1,1,0,1,128,PR,-44%,1,128
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1086,SU2CLC-MSK-1086-T1,SU2CLC-MSK-1086-N1,,,65,F,0,1,86,Adeno,,1,A,,,,,MSK-IMPACT,-405,2,Nivolumab,PD(L)1,1,0,0,243,PR,-55%,0,329
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1087,SU2CLC-MSK-1087-T1,SU2CLC-MSK-1087-N1,,,73,F,0,0,0,Adeno,,4,A,0.1,,22C3,PIK3CA,MSK-IMPACT,-1012,3,Nivolumab,PD(L)1,0,0,1,78,PD,3%,1,380
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1088,SU2CLC-MSK-1088-T1,SU2CLC-MSK-1088-N1,,,66,M,0,1,30,Adeno,,2,B,,,,EGFR,MSK-IMPACT,-2220,4,Nivolumab,PD(L)1,0,0,1,139,PD,22%,1,537
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1094,SU2CLC-MSK-1094-T1,SU2CLC-MSK-1094-N1,,,72,F,0,1,38,Adeno,,3,B,,,,,MSK-IMPACT,-21,1,Nivolumab,PD(L)1,0,0,0,580,SD,,0,581
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1096,SU2CLC-MSK-1096-T1,SU2CLC-MSK-1096-N1,,,53,F,0,1,30,Other,Combined LC-NE and ADC,3,B,0,,22C3,KRAS,MSK-IMPACT,-329,3,Nivolumab,PD(L)1,1,0,1,151,PD,48%,1,258
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1098,SU2CLC-MSK-1098-T1,SU2CLC-MSK-1098-N1,,,57,M,1,1,4,Adeno,,3,B,0,,22C3,,MSK-IMPACT,-41,1,Nivolumab,PD(L)1,0,0,1,95,PD,32%,0,450
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1099,SU2CLC-MSK-1099-T1,SU2CLC-MSK-1099-N1,,,58,M,0,1,70,Squamous,,4,A,,,,,MSK-IMPACT,-238,2,Nivolumab,PD(L)1,1,0,1,16,PD,,1,202
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1100,SU2CLC-MSK-1100-T1,SU2CLC-MSK-1100-N1,,,72,M,0,1,40,Adeno,,4,A,,,,KRAS,MSK-IMPACT,-217,2,Nivolumab,PD(L)1,1,0,1,35,PD,16%,1,147
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1101,SU2CLC-MSK-1101-T1,SU2CLC-MSK-1101-N1,,,75,M,0,1,63,LC-NE,,4,A,,,,KRAS,MSK-IMPACT,-137,2,Nivolumab,PD(L)1,1,0,1,40,PD,39%,1,163
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1102,SU2CLC-MSK-1102-T1,SU2CLC-MSK-1102-N1,,,67,M,0,2,24,Squamous,,4,A,,,,KRAS,MSK-IMPACT,-79,2,Nivolumab,PD(L)1,0,0,1,173,SD,-24%,1,502
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1103,SU2CLC-MSK-1103-T1,SU2CLC-MSK-1103-N1,,,49,M,0,1,10,Squamous,,2,A,,,,,MSK-IMPACT,-125,2,Nivolumab,PD(L)1,0,0,1,76,PD,,1,160
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1112,SU2CLC-MSK-1112-T1,SU2CLC-MSK-1112-N1,,,68,M,0,2,50,Squamous,,2,B,0,,22C3,,MSK-IMPACT,-139,2,Nivolumab,PD(L)1,1,0,1,78,PD,76%,1,691
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1114,SU2CLC-MSK-1114-T1,SU2CLC-MSK-1114-N1,,,54,F,0,1,15,Adeno,,4,A,0,,E1L3N,KRAS,MSK-IMPACT,-98,2,Nivolumab,PD(L)1,1,0,1,25,PD,18%,1,71
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1116,SU2CLC-MSK-1116-T1,SU2CLC-MSK-1116-N1,,,69,F,0,1,69,Adeno,,1,B,,,,"BRAF, NRAS",MSK-IMPACT,-388,2,Nivolumab,PD(L)1,1,0,1,68,PD,-6%,0,150
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1355,SU2CLC-MSK-1355-T1,SU2CLC-MSK-1355-N1,,,49,F,0,2,60,Adeno,,4,A,,,,KRAS,MSK-IMPACT,-392,2,Nivolumab,PD(L)1,1,0,0,685,PR,-44%,0,810
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1356,SU2CLC-MSK-1356-T1,SU2CLC-MSK-1356-N1,,,44,F,1,0,0,Adeno,,4,A,0.8,,E1L3N,ROS1,MSK-IMPACT,-1072,5,Nivolumab,PD(L)1,1,1,1,157,PR,-64%,1,365
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1357,SU2CLC-MSK-1357-T1,SU2CLC-MSK-1357-N1,,,66,M,0,1,33,LC-NE,,4,A,,,,,MSK-IMPACT,-251,2,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,1,0,0,379,PR,-54%,0,485
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1358,SU2CLC-MSK-1358-T1,SU2CLC-MSK-1358-N1,,,83,F,0,1,35,Adeno,,1,B,,,,,MSK-IMPACT,-180,2,Nivolumab,PD(L)1,1,0,1,71,SD,-6%,1,238
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1360,SU2CLC-MSK-1360-T1,SU2CLC-MSK-1360-N1,,,67,M,3,1,35,Other,NSCLC NOS,4,A,1,,E1L3N,,MSK-IMPACT,-57,1,Pembrolizumab,PD(L)1,0,0,0,453,PR,-65%,0,561
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1361,SU2CLC-MSK-1361-T1,SU2CLC-MSK-1361-N1,,,57,F,0,1,30,Adeno,,3,A,0.01,,E1L3N,KRAS,MSK-IMPACT,-29,1,Pembrolizumab,PD(L)1,0,0,0,516,PR,-76%,0,644
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1363,SU2CLC-MSK-1363-T1,SU2CLC-MSK-1363-N1,,,69,M,0,1,30,Adeno,,3,A,,,,KRAS,MSK-IMPACT,-185,2,Nivolumab,PD(L)1,1,0,1,128,SD,13%,1,280
+1,,1,1,,1,Memorial Sloan Kettering,SU2CLC-MSK-1364,SU2CLC-MSK-1364-T1,SU2CLC-MSK-1364-N1,SU2CLC-MSK-1364-T1,Keep,76,F,0,1,8,Adeno,,4,A,,,,EGFR,MSK-IMPACT,-330,3,Atezolizumab,PD(L)1,1,1,1,249,PR,-51%,0,434
+1,,1,1,,1,Memorial Sloan Kettering,SU2CLC-MSK-1365,SU2CLC-MSK-1365-T1,SU2CLC-MSK-1365-N1,SU2CLC-MSK-1365-T1,Flag,73,M,0,0,0,Adeno,,4,A,0.95,,E1L3N,KRAS,MSK-IMPACT,-839,2,Pembrolizumab,PD(L)1,1,0,0,400,SD,,0,436
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1468,SU2CLC-MSK-1468-T1,SU2CLC-MSK-1468-N1,,,46,M,1,1,25,LC-NE,,4,A,0,,E1L3N,,MSK-IMPACT,-251,4,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,1,0,0,364,PR,-32%,0,413
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1469,SU2CLC-MSK-1469-T1,SU2CLC-MSK-1469-N1,,,79,M,0,1,25,Adeno,,4,A,0.95,,E1L3N,KRAS,MSK-IMPACT,-69,1,Pembrolizumab,PD(L)1,0,0,0,371,PR,-48%,0,390
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1472,SU2CLC-MSK-1472-T1,SU2CLC-MSK-1472-N1,,,78,F,0,0,0,Other,NSCLC NOS,4,A,0.9,,E1L3N,MET,MSK-IMPACT,-18,1,Pembrolizumab,PD(L)1,0,0,1,91,PR,-46%,0,300
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1541,SU2CLC-MSK-1541-T1,SU2CLC-MSK-1541-N1,,,67,M,0,1,30,Squamous,,3,A,0.4,,E1L3N,,MSK-IMPACT,-33,1,Pembrolizumab,PD(L)1,0,0,,,PR,,0,189
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1542,SU2CLC-MSK-1542-T1,SU2CLC-MSK-1542-N1,,,79,F,0,1,30,Adeno,,4,A,0.6,,E1L3N,"BRAF, KRAS",8-gene sequenom panel; MSK-IMPACT,-1416,3,Pembrolizumab,PD(L)1,0,1,,,SD,-11%,0,118
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1543,SU2CLC-MSK-1543-T1,SU2CLC-MSK-1543-N1,,,72,M,0,1,6,Adeno,,2,A,,,,KRAS,MSK-IMPACT,-286,2,Nivolumab,PD(L)1,0,0,1,80,PD,,0,84
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1544,SU2CLC-MSK-1544-T1,SU2CLC-MSK-1544-N1,,,80,M,0,1,28,Adeno,,3,A,0.5,,E1L3N,KRAS,MSK-IMPACT,-519,1,Pembrolizumab,PD(L)1,0,0,0,140,CR,-100%,0,140
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1545,SU2CLC-MSK-1545-T1,SU2CLC-MSK-1545-N1,,,71,M,2,1,2,LC-NE,,3,A,0.1,,22C3,,MSK-IMPACT,-237,2,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,0,82,PR,,0,112
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1546,SU2CLC-MSK-1546-T1,SU2CLC-MSK-1546-N1,,,67,F,0,1,2,Adeno,,1,A,0.05,,E1L3N,,MSK-IMPACT,-72,1,Pembrolizumab,PD(L)1,0,0,1,158,SD,,0,158
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1548,SU2CLC-MSK-1548-T1,SU2CLC-MSK-1548-N1,,,60,F,0,1,45,Adeno,,4,A,0.8,,E1L3N,,MSK-IMPACT,-29,1,Pembrolizumab,PD(L)1,0,0,1,76,PD,-14%,0,303
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1549,SU2CLC-MSK-1549-T1,SU2CLC-MSK-1549-N1,,,59,F,0,1,18,Adeno,,4,A,0.7,,E1L3N,KRAS,MSK-IMPACT,-64,1,Pembrolizumab,PD(L)1,0,0,1,248,PR,-73%,0,275
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1550,SU2CLC-MSK-1550-T1,SU2CLC-MSK-1550-N1,,,44,M,0,1,28,Adeno,,3,A,0.7,,E1L3N,,MSK-IMPACT,-107,1,Pembrolizumab,PD(L)1,0,0,1,77,PD,,0,278
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1551,SU2CLC-MSK-1551-T1,SU2CLC-MSK-1551-N1,,,38,M,0,1,14,Adeno,,4,A,0.6,,E1L3N,HER2,MSK-IMPACT,-22,1,Pembrolizumab,PD(L)1,0,0,0,168,SD,,0,245
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1552,SU2CLC-MSK-1552-T1,SU2CLC-MSK-1552-N1,,,88,M,0,1,23,Adeno,,4,A,0.8,,E1L3N,MET,MSK-IMPACT,-57,1,Pembrolizumab,PD(L)1,0,0,0,78,SD,,0,204
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1553,SU2CLC-MSK-1553-T1,SU2CLC-MSK-1553-N1,,,47,F,2,1,15,Adeno,,4,A,0.4,,E1L3N,EGFR,MSK-IMPACT,-25,1,Pembrolizumab,PD(L)1,0,0,1,34,PD,,0,293
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1554,SU2CLC-MSK-1554-T1,SU2CLC-MSK-1554-N1,,,68,M,0,1,53,Adeno,,3,A,0.01,,E1L3N,KRAS,MSK-IMPACT,-236,2,Pembrolizumab,PD(L)1,1,0,1,79,PD,,0,281
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1555,SU2CLC-MSK-1555-T1,SU2CLC-MSK-1555-N1,,,58,M,0,1,26,Squamous,,4,A,0.9,,E1L3N,,MSK-IMPACT,-14,1,Pembrolizumab,PD(L)1,0,0,1,144,PR,-32%,0,146
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-1556,SU2CLC-MSK-1556-T1,SU2CLC-MSK-1556-N1,,,63,F,0,1,19,Adeno,,4,A,0.95,,E1L3N,KRAS,MSK-IMPACT,-21,1,Pembrolizumab,PD(L)1,0,0,0,103,SD,-20%,0,117
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-A2001,SU2CLC-MSK-A2001-T1,SU2CLC-MSK-A2001-N1,,,59,M,0,1,34,Adeno,,4,A,0.5,,22C3,KRAS,MSK-IMPACT,-61,1,Pembrolizumab,PD(L)1,0,0,1,567,SD,-18%,1,1507
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-A2002,SU2CLC-MSK-A2002-T1,SU2CLC-MSK-A2002-N1,,,67,M,,1,52,Adeno,,4,A,0.05,,E1L3N,KRAS,MSK-IMPACT,-64,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,245,PR,-39%,0,796
+,,,1,,1,Memorial Sloan Kettering,SU2CLC-MSK-A2009,,,SU2CLC-MSK-A2009-T1,Keep,59,F,0,0,0,LC-NE,,4,A,0.05,,E1L3N,,MSK-IMPACT,-163,2,Atezolizumab + Epacadostat,PD(L)1 + Other,1,0,1,348,PR,-47%,0,916
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-A2012,SU2CLC-MSK-A2012-T1,SU2CLC-MSK-A2012-N1,,,69,F,0,1,98,Adeno,,3,A,0,,E1L3N,BRAF,MSK-IMPACT,-2087,2,Nivolumab,PD(L)1,0,0,1,800,PR,-56%,0,807
+1,,1,1,,1,Memorial Sloan Kettering,SU2CLC-MSK-A2013,SU2CLC-MSK-A2013-T1,SU2CLC-MSK-A2013-N1,SU2CLC-MSK-A2013-T1,Keep,67,F,0,1,19,Adeno,,4,A,,,,KRAS,Foundation One,-56,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,119,PR,-49%,1,301
+1,,1,1,,1,Memorial Sloan Kettering,SU2CLC-MSK-A2014,SU2CLC-MSK-A2014-T1,SU2CLC-MSK-A2014-N1,SU2CLC-MSK-A2014-T1,Keep,60,F,0,0,0,Adeno,,1,B,0,,28-8,KRAS,MSK-IMPACT,-13,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,238,PR,-46%,1,390
+,1,1,,,,MSKCC/Science,SU2CLC-MSK-A2016,SU2CLC-MSK-A2016-T1,SU2CLC-MSK-A2016-N1,,,69,F,0,1,44,Adeno,,4,A,0.01,,22C3,,,-1561,2,Pembrolizumab,PD(L)1,1,0,1,195,SD,-21%,1,401
+,1,1,,,,MSKCC/Science,SU2CLC-MSK-A2017,SU2CLC-MSK-A2017-T1,SU2CLC-MSK-A2017-N1,,,56,M,0,1,80,Adeno,,2,A,1,,22C3,,,-915,4,Pembrolizumab,PD(L)1,0,0,1,435,PR,-74%,0,1792
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2018,SU2CLC-MSK-A2018-T1,SU2CLC-MSK-A2018-N1,,,58,M,0,1,50,Adeno,,3,A,0.9,,28-8,,,-15,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,90,SD,0%,1,334
+,1,1,,,,MSKCC/Science,SU2CLC-MSK-A2019,SU2CLC-MSK-A2019-T1,SU2CLC-MSK-A2019-N1,,,55,M,0,1,39,Squamous,,3,B,0.3,,22C3,,,-411,2,Pembrolizumab,PD(L)1,1,0,1,185,SD,-20%,1,467
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2020,SU2CLC-MSK-A2020-T1,SU2CLC-MSK-A2020-N1,,,56,F,0,0,0,Adeno,,4,A,0,,28-8,,,-793,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,363,SD,13%,0,1615
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2021,SU2CLC-MSK-A2021-T1,SU2CLC-MSK-A2021-N1,,,65,M,2,1,10,Adeno,,4,A,0.1,,28-8,,,-64,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,673,SD,0%,0,1302
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2022,SU2CLC-MSK-A2022-T1,SU2CLC-MSK-A2022-N1,,,53,M,0,1,53,LC-NE,,4,A,0,,28-8,,,-33,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,0,1199,CR,-100%,0,1199
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2023,SU2CLC-MSK-A2023-T1,SU2CLC-MSK-A2023-N1,,,57,M,0,0,0,Adeno,,4,A,0,,28-8,,,-52,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,342,SD,-23%,1,1782
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2024,SU2CLC-MSK-A2024-T1,SU2CLC-MSK-A2024-N1,,,68,F,2,1,2,Adeno,,4,A,0.1,,28-8,,,-49,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,259,SD,-7%,0,1699
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2025,SU2CLC-MSK-A2025-T1,SU2CLC-MSK-A2025-N1,,,72,M,0,1,113,Adeno,,2,B,0.03,,28-8,,,-44,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,246,PR,-53%,1,246
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2028,SU2CLC-MSK-A2028-T1,SU2CLC-MSK-A2028-N1,,,72,F,0,1,23,Adeno,,3,A,0.02,,28-8,,,-23,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,0,1265,CR,-100%,0,1268
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2029,SU2CLC-MSK-A2029-T1,SU2CLC-MSK-A2029-N1,,,66,M,0,1,10,Other,NSCLC NOS,4,A,,,,,,-49,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,237,PR,-72%,1,758
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2030,SU2CLC-MSK-A2030-T1,SU2CLC-MSK-A2030-N1,,,81,M,0,1,20,Adeno,,3,B,0.45,,28-8,,,-44,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,1607,PR,-92%,1,1607
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2031,SU2CLC-MSK-A2031-T1,SU2CLC-MSK-A2031-N1,,,76,M,1,0,0,Adeno,,4,A,,,,,,-203,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,728,SD,0%,0,1476
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2032,SU2CLC-MSK-A2032-T1,SU2CLC-MSK-A2032-N1,,,58,F,0,2,40,Adeno,,4,A,0,,28-8,,,-63,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,154,SD,-20%,1,851
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2033,SU2CLC-MSK-A2033-T1,SU2CLC-MSK-A2033-N1,,,50,F,0,2,51,Adeno,,4,A,0.8,,28-8,,,-37,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,0,1270,CR,-100%,0,1272
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2034,SU2CLC-MSK-A2034-T1,SU2CLC-MSK-A2034-N1,,,75,F,0,2,50,Adeno,,4,A,0.03,,28-8,,,-160,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,242,PR,-34%,1,388
+,1,1,,,,MSKCC/Science,SU2CLC-MSK-A2035,SU2CLC-MSK-A2035-T1,SU2CLC-MSK-A2035-N1,,,61,F,0,2,60,Adeno,,3,A,0.81,,22C3,,,-1444,7,Pembrolizumab,PD(L)1,1,0,,,PR,-49%,1,873
+,1,1,,,,MSKCC/Science,SU2CLC-MSK-A2036,SU2CLC-MSK-A2036-T1,SU2CLC-MSK-A2036-N1,,,57,M,,0,0,Adeno,,,,0.1,,22C3,,,,4,Pembrolizumab,PD(L)1,1,0,1,49,PD,,1,88
+,1,1,,,,MSKCC/Science,SU2CLC-MSK-A2037,SU2CLC-MSK-A2037-T1,SU2CLC-MSK-A2037-N1,,,62,F,0,2,25,Adeno,,3,B,0.9,,22C3,,,-616,2,Pembrolizumab,PD(L)1,0,0,1,372,PR,-69%,1,777
+,1,1,,,,MSKCC/Science,SU2CLC-MSK-A2040,SU2CLC-MSK-A2040-T1,SU2CLC-MSK-A2040-N1,,,62,F,0,1,58,Adeno,,4,A,0.71,,22C3,,,-531,4,Pembrolizumab,PD(L)1,1,0,0,1096,PR,-69%,0,1658
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2042,SU2CLC-MSK-A2042-T1,SU2CLC-MSK-A2042-N1,,,74,M,,1,37,Squamous,,,,0,,28-8,,,,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,0,69,PR,-72%,0,673
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2043,SU2CLC-MSK-A2043-T1,SU2CLC-MSK-A2043-N1,,,70,F,,1,1,Adeno,,,,0.02,,28-8,,,,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,42,PD,-43%,0,1233
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2044,SU2CLC-MSK-A2044-T1,SU2CLC-MSK-A2044-N1,,,72,M,,1,90,Squamous,,,,0.98,,28-8,,,,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,206,PR,-32%,1,654
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2046,SU2CLC-MSK-A2046-T1,SU2CLC-MSK-A2046-N1,,,67,F,,1,,Adeno,,,,0,,28-8,,,,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,112,SD,-30%,1,349
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2047,SU2CLC-MSK-A2047-T1,SU2CLC-MSK-A2047-N1,,,72,M,,1,68,Squamous,,,,0.25,,28-8,,,,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,164,SD,-17%,1,214
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2049,SU2CLC-MSK-A2049-T1,SU2CLC-MSK-A2049-N1,,,53,F,,2,95,Adeno,,,,0,,28-8,,,,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,62,PD,,1,385
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2050,SU2CLC-MSK-A2050-T1,SU2CLC-MSK-A2050-N1,,,69,F,,1,80,Adeno,,,,0.03,,28-8,,,,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,0,668,PR,-46%,0,905
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2051,SU2CLC-MSK-A2051-T1,SU2CLC-MSK-A2051-N1,,,59,M,,1,32,Adeno,,,,0.03,,28-8,,,,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,0,538,PR,-39%,0,988
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2052,SU2CLC-MSK-A2052-T1,SU2CLC-MSK-A2052-N1,,,60,F,,2,66,Adeno,,,,0.05,,28-8,,,,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,0,67,PR,-68%,0,779
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2053,SU2CLC-MSK-A2053-T1,SU2CLC-MSK-A2053-N1,,,77,F,,1,14,Adeno,,,,0.85,,28-8,,,,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,518,SD,-25%,0,712
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2054,SU2CLC-MSK-A2054-T1,SU2CLC-MSK-A2054-N1,,,75,M,,1,48,Squamous,,,,0.35,,28-8,,,,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,0,67,PR,-78%,0,645
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2055,SU2CLC-MSK-A2055-T1,SU2CLC-MSK-A2055-N1,,,67,F,,2,65,Adeno,,,,0.07,,28-8,,,,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,70,PD,34%,0,429
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2057,SU2CLC-MSK-A2057-T1,SU2CLC-MSK-A2057-N1,,,66,F,,1,10,Adeno,,,,,,,,,,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,70,PD,30%,1,254
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-A2059,SU2CLC-MSK-A2059-T1,SU2CLC-MSK-A2059-N1,,,60,M,0,1,6,Squamous,,4,A,0,,E1L3N,HER2,MSK-IMPACT,-47,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,36,PD,20%,0,478
+1,,1,1,,1,Memorial Sloan Kettering,SU2CLC-MSK-A2060,SU2CLC-MSK-A2060-T1,SU2CLC-MSK-A2060-N1,SU2CLC-MSK-A2060-T1,Keep,71,M,0,2,41,Adeno,,4,A,0.8,,28-8,KRAS,MSK-IMPACT,-49,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,0,593,PR,-47%,0,595
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-A2063,SU2CLC-MSK-A2063-T1,SU2CLC-MSK-A2063-N1,,,82,M,1,1,20,Adeno,,4,A,0,,28-8,KRAS,MSK-IMPACT,-88,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,413,SD,5%,0,623
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-A2064,SU2CLC-MSK-A2064-T1,SU2CLC-MSK-A2064-N1,,,77,M,0,1,65,Squamous,,4,A,0.9,,E1L3N,,MSK-IMPACT,-50,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,212,PR,-48%,1,229
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-A2065,SU2CLC-MSK-A2065-T1,SU2CLC-MSK-A2065-N1,,,70,M,0,2,60,Squamous,,4,A,0.95,,28-8,,MSK-IMPACT,-33,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,109,PR,-47%,1,109
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-A2066,SU2CLC-MSK-A2066-T1,SU2CLC-MSK-A2066-N1,,,71,F,0,1,30,Adeno,,3,B,0.8,,28-8,HER2,MSK-IMPACT,-19,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,121,SD,0%,0,632
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-A2067,SU2CLC-MSK-A2067-T1,SU2CLC-MSK-A2067-N1,,,85,F,0,1,60,Adeno,,4,A,0.9,,28-8,MET,MSK-IMPACT,-47,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,82,SD,-20%,0,658
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-A2068,SU2CLC-MSK-A2068-T1,SU2CLC-MSK-A2068-N1,,,69,M,0,1,40,Adeno,,1,A,0.3,,28-8,PIK3CA,MSK-IMPACT,-15,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,0,114,PR,-61%,0,420
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-A2069,SU2CLC-MSK-A2069-T1,SU2CLC-MSK-A2069-N1,,,63,F,0,1,23,Adeno,,4,A,0.5,,E1L3N,,MSK-IMPACT,-41,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,40,PD,-15%,0,106
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-A2070,SU2CLC-MSK-A2070-T1,SU2CLC-MSK-A2070-N1,,,56,M,0,2,40,Adeno,,4,A,0.7,,28-8,HER2,MSK-IMPACT,-40,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,0,500,PR,-82%,0,504
+,1,1,,,,MSKCC/Science,SU2CLC-MSK-A2071,SU2CLC-MSK-A2071-T1,SU2CLC-MSK-A2071-N1,,,60,M,,0,0,Adeno,,,,0,,22C3,,,,6,Pembrolizumab,PD(L)1,1,1,1,64,PD,,1,1083
+,1,1,,,,MSKCC/Science,SU2CLC-MSK-A2072,SU2CLC-MSK-A2072-T1,SU2CLC-MSK-A2072-N1,,,64,F,0,1,53,Adeno,,4,A,0.7,,22C3,,,-28,1,Pembrolizumab,PD(L)1,0,0,1,251,SD,-28%,1,770
+,1,1,,,,MSKCC/Science,SU2CLC-MSK-A2073,SU2CLC-MSK-A2073-T1,SU2CLC-MSK-A2073-N1,,,61,F,0,1,6,Adeno,,3,A,0.05,,22C3,,,-1157,4,Pembrolizumab,PD(L)1,0,1,1,105,SD,-4%,0,344
+,1,1,,,,MSKCC/Science,SU2CLC-MSK-A2074,SU2CLC-MSK-A2074-T1,SU2CLC-MSK-A2074-N1,,,56,F,0,1,8,Adeno,,4,A,0.02,,22C3,,,-56,1,Pembrolizumab,PD(L)1,0,0,1,189,SD,-29%,1,681
+,,,1,,1,Memorial Sloan Kettering,SU2CLC-MSK-A2075,,,SU2CLC-MSK-A2075-T1,Keep,74,F,0,1,40,Adeno,,4,A,0.82,,28-8,KRAS,MSK-IMPACT,-258,2,Nivolumab + LAG-3,PD(L)1 + Other,1,0,0,902,PR,-70%,0,938
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-A2080,SU2CLC-MSK-A2080-T1,SU2CLC-MSK-A2080-N1,,,66,F,0,1,40,Adeno,,4,A,0.01,,E1L3N,KRAS,MSK-IMPACT,-193,4,Pembrolizumab,PD(L)1,1,0,1,634,PR,-87%,0,1705
+,1,1,,,,MSKCC/Science,SU2CLC-MSK-A2081,SU2CLC-MSK-A2081-T1,SU2CLC-MSK-A2081-N1,,,52,M,0,1,38,Adeno,,4,A,0.01,,22C3,,,-147,2,Pembrolizumab,PD(L)1,1,0,1,54,PD,,1,83
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2082,SU2CLC-MSK-A2082-T1,SU2CLC-MSK-A2082-N1,,,54,M,0,2,70,Adeno,,4,A,0.01,,28-8,,,-79,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,53,PD,33%,1,92
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2083,SU2CLC-MSK-A2083-T1,SU2CLC-MSK-A2083-N1,,,71,M,0,1,21,Adeno,,1,A,0,,28-8,,,-34,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,75,PD,49%,1,254
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2084,SU2CLC-MSK-A2084-T1,SU2CLC-MSK-A2084-N1,,,55,M,0,2,15,Adeno,,4,A,,,,,,-98,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,124,SD,10%,1,174
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2085,SU2CLC-MSK-A2085-T1,SU2CLC-MSK-A2085-N1,,,84,F,1,1,2,Adeno,,4,A,0,,28-8,,,-44,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,70,PD,30%,0,70
+1,,1,,,,MSKCC/Cancer Cell,SU2CLC-MSK-A2087,SU2CLC-MSK-A2087-T1,SU2CLC-MSK-A2087-N1,,,50,F,0,1,12,Adeno,,4,A,0,,28-8,,,-37,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,56,PD,32%,1,427
+,1,1,,,,MSKCC/Science,SU2CLC-MSK-A2088,SU2CLC-MSK-A2088-T1,SU2CLC-MSK-A2088-N1,,,39,F,0,2,2,Adeno,,4,A,0.02,,22C3,,,-381,2,Pembrolizumab,PD(L)1,1,0,1,56,PD,71%,1,977
+,1,1,,,,MSKCC/Science,SU2CLC-MSK-A2090,SU2CLC-MSK-A2090-T1,SU2CLC-MSK-A2090-N1,,,61,M,0,1,74,Adeno,,4,A,0.33,,22C3,,,-238,3,Pembrolizumab,PD(L)1,1,0,1,41,PD,,1,63
+1,,1,,,,Memorial Sloan Kettering,SU2CLC-MSK-A2091,SU2CLC-MSK-A2091-T1,SU2CLC-MSK-A2091-N1,,,56,M,0,1,40,Squamous,,4,A,0.45,,28-8,,,-35,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,1,1072,PR,-82%,1,1590
+,1,1,,,,MSKCC/Science,SU2CLC-MSK-A2092,SU2CLC-MSK-A2092-T1,SU2CLC-MSK-A2092-N1,,,78,F,,1,60,Adeno,,,,0.95,,22C3,,,,1,Pembrolizumab,PD(L)1,0,0,1,1397,PR,,0,1518
+,1,1,,,,MSKCC/Science,SU2CLC-MSK-A2093,SU2CLC-MSK-A2093-T1,SU2CLC-MSK-A2093-N1,,,56,F,0,1,21,Adeno,,3,A,0.9,,22C3,,,-208,2,Pembrolizumab,PD(L)1,0,0,0,889,PR,-82%,0,932
+,1,1,,,,MSKCC/Science,SU2CLC-MSK-A2094,SU2CLC-MSK-A2094-T1,SU2CLC-MSK-A2094-N1,,,71,M,0,1,20,Adeno,,4,A,0.15,,22C3,,,-205,2,Pembrolizumab,PD(L)1,1,0,1,64,PD,69%,1,116
+,1,1,,,,MSKCC/Science,SU2CLC-MSK-A2095,SU2CLC-MSK-A2095-T1,SU2CLC-MSK-A2095-N1,,,62,F,0,1,36,Other,NSCLC NOS,4,A,0.01,,22C3,,,-3081,2,Pembrolizumab,PD(L)1,1,0,0,837,PR,-59%,0,1476
+,1,1,,,,MSKCC/Science,SU2CLC-MSK-A2096,SU2CLC-MSK-A2096-T1,SU2CLC-MSK-A2096-N1,,,68,M,,0,0,Squamous,,,,,,,,,,2,Pembrolizumab,PD(L)1,1,0,0,575,PR,,0,2109
+,1,1,,,,MSKCC/Science,SU2CLC-MSK-A2097,SU2CLC-MSK-A2097-T1,SU2CLC-MSK-A2097-N1,,,64,F,0,2,25,Adeno,,4,A,0.4,,22C3,,,-41,1,Pembrolizumab,PD(L)1,0,0,1,445,SD,-28%,0,1631
+,1,1,,,,MSKCC/Science,SU2CLC-MSK-A2098,SU2CLC-MSK-A2098-T1,SU2CLC-MSK-A2098-N1,,,59,M,0,2,15,Adeno,,4,A,0.4,,22C3,,,-59,1,Pembrolizumab,PD(L)1,0,0,1,250,SD,-22%,1,1106
+,1,1,,,,MSKCC/Science,SU2CLC-MSK-A2103,SU2CLC-MSK-A2103-T1,SU2CLC-MSK-A2103-N1,,,48,M,0,0,0,Adeno,,4,A,0.51,,22C3,,,-611,3,Pembrolizumab,PD(L)1,1,0,1,57,PD,49%,1,562
+,1,1,,,,MSKCC/Science,SU2CLC-MSK-A2104,SU2CLC-MSK-A2104-T1,SU2CLC-MSK-A2104-N1,,,68,M,1,0,0,Adeno,,4,A,0.4,,22C3,,,-1432,6,Pembrolizumab,PD(L)1,0,1,1,250,SD,-1%,1,446
+,1,1,,1,1,UC Davis,SU2CLC-UCD-1124,SU2CLC-UCD-1124-T1,SU2CLC-UCD-1124-N1,SU2CLC-UCD-1124-T1,Keep,57,M,0,1,20,Adeno,,3,A,,,,KRAS,Foundation,-103,2,Avelumab,PD(L)1,1,0,,,CR,-100%,0,1063
+,1,1,,,,UC Davis,SU2CLC-UCD-1125,SU2CLC-UCD-1125-T1,SU2CLC-UCD-1125-N1,,,66,M,0,1,20,Adeno,,1,B,,,,BRAF,Foundation,-24,2,Avelumab,PD(L)1,1,0,1,164,SD,0%,1,978
+,,,,1,1,UC Davis,SU2CLC-UCD-1137,,,SU2CLC-UCD-1137-T1,Keep,78,M,0,1,20,Squamous,,4,A,,,,BRCA1,Foundation,-443,2,Nivolumab,PD(L)1,1,0,1,296,PR,-54%,0,742
+,1,1,,1,1,UC Davis,SU2CLC-UCD-1142,SU2CLC-UCD-1142-T1,SU2CLC-UCD-1142-N1,SU2CLC-UCD-1142-T1,Keep,58,F,0,2,30,Adeno,,4,B,,,,KRAS,Foundation,-14,2,Nivolumab,PD(L)1,1,0,,,PR,-36%,0,783
+,,,,1,1,UC Davis,SU2CLC-UCD-1143,,,SU2CLC-UCD-1143-T1,Keep,68,F,3,1,104,Adeno,,2,B,,<1%,22C3,NF1,Foundation,-151,2,Nivolumab,PD(L)1,1,0,1,203,SD,,0,656
+,1,1,,,,UC Davis,SU2CLC-UCD-1145,SU2CLC-UCD-1145-T1,SU2CLC-UCD-1145-N1,,,65,F,0,1,9,Adeno,,3,A,0.35,30-40%,22C3,KRAS,Foundation,-39,2,Pembrolizumab,PD(L)1,1,0,1,124,PD,,0,403
+,,,,1,1,UC Davis,SU2CLC-UCD-1557,,,SU2CLC-UCD-1557-T1,Keep,53,F,2,1,35,Adeno,,4,A,,,,KRAS,Foundation,-58,2,Nivolumab,PD(L)1,0,0,,,SD,,0,819
+,,,,1,1,UC Davis,SU2CLC-UCD-1560,,,SU2CLC-UCD-1560-T1,Keep,76,F,0,0,0,Adeno,,3,B,,<50%,22C3,CTNNB1,Foundation,-726,2,Atezolizumab,PD(L)1,1,0,1,30,SD,,0,104
+1,,1,,,,Yale University,SU2CLC-YAL-010,SU2CLC-YAL-010-T1,SU2CLC-YAL-010-N1,,,80,F,0,1,50,Squamous,,2,A,0,,22C3,AKT1,Illumina,-1191,5,Nivolumab,PD(L)1,1,0,1,369,PR,-68%,1,1061
+1,,1,,,,Yale University,SU2CLC-YAL-103,SU2CLC-YAL-103-T1,SU2CLC-YAL-103-N1,,,54,M,1,1,1,Adeno,,4,,0.9,,22C3,ERBB2,Illumina,-1084,6,Pembrolizumab,PD(L)1,1,1,1,113,PD,,1,888
+1,,1,,,,Yale University,SU2CLC-YAL-104,SU2CLC-YAL-104-T1,SU2CLC-YAL-104-N1,,,64,F,0,1,45,Squamous,,3,B,,,22C3,None,Illumina,-35,1,Nivolumab,PD(L)1,0,0,1,201,PR,-37%,0,1727
+1,,1,,,,Yale University,SU2CLC-YAL-108,SU2CLC-YAL-108-T1,SU2CLC-YAL-108-N1,,,62,M,2,1,40,Other,Adenosquamous,2,B,0,,22C3,None,Illumina,-839,5,Atezolizumab,PD(L)1,1,0,1,163,PR,-56%,0,1383
+1,,1,,,,Yale University,SU2CLC-YAL-111,SU2CLC-YAL-111-T1,SU2CLC-YAL-111-N1,,,69,F,0,1,15,Adeno,,3,B,0.1,,22C3,EGFR ,Illumina,-2215,4,Nivolumab,PD(L)1,1,0,1,1148,PR,-46%,1,1976
+1,,1,,,,Yale University,SU2CLC-YAL-2501,SU2CLC-YAL-2501-T1,SU2CLC-YAL-2501-N1,,,66,M,0,1,60,Squamous,,1,B,0,,22C3,None,Illumina,-962,2,Nivolumab,PD(L)1,1,0,,,CR,-100%,1,1115
+1,,1,,,,Yale University,SU2CLC-YAL-2503,SU2CLC-YAL-2503-T1,SU2CLC-YAL-2503-N1,,,57,M,0,2,35,Adeno,,3,A,0.5,,22C3,None,Illumina,-719,2,Nivolumab,PD(L)1,1,0,0,1675,PR,-38%,0,1806
+1,,1,,,,Yale University,SU2CLC-YAL-2506,SU2CLC-YAL-2506-T1,SU2CLC-YAL-2506-N1,,,49,F,0,1,3,Adeno,,2,A,,,22C3,EGFR,Illumina,-394,2,Atezolizumab,PD(L)1,1,0,1,37,PD,24%,1,1093
+1,,1,,,,Yale University,SU2CLC-YAL-2507,SU2CLC-YAL-2507-T1,SU2CLC-YAL-2507-N1,,,73,F,0,1,45,Adeno,,3,A,,,22C3,KRAS,Illumina,-765,3,Nivolumab,PD(L)1,1,0,1,6,PD,33%,1,640
+1,,1,,,,Yale University,SU2CLC-YAL-2509,SU2CLC-YAL-2509-T1,SU2CLC-YAL-2509-N1,,,65,F,0,0,0,Adeno,,4,,0,,22C3,EGFR,Illumina,-20,1,Nivolumab,PD(L)1,0,0,1,247,SD,11%,1,571
+1,,1,,,,Yale University,SU2CLC-YAL-2511,SU2CLC-YAL-2511-T1,SU2CLC-YAL-2511-N1,,,72,F,0,1,20,Adeno,,1,A,0,,22C3,None,Illumina,-1705,3,Atezolizumab,PD(L)1,1,0,1,45,PD,236%,1,217
+1,,1,,,,Yale University,SU2CLC-YAL-2513,SU2CLC-YAL-2513-T1,SU2CLC-YAL-2513-N1,,,48,M,0,0,0,Adeno,,2,B,0.05,,22C3,EGFR,Illumina,-370,3,Nivolumab,PD(L)1,1,0,1,35,PD,69%,1,2607
+1,,1,,,,Yale University,SU2CLC-YAL-2514,SU2CLC-YAL-2514-T1,SU2CLC-YAL-2514-N1,,,53,M,0,1,70,Other,NSCLC NOS poorly differentiated ,3,B,0,,22C3,None,Illumina,-376,4,Nivolumab,PD(L)1,1,0,1,52,PD,,1,306
+1,,1,,,,Yale University,SU2CLC-YAL-2516,SU2CLC-YAL-2516-T1,SU2CLC-YAL-2516-N1,,,63,F,0,1,45,Adeno,,3,A,,,22C3,KRAS,Illumina,-757,5,Atezolizumab,PD(L)1,1,0,1,132,PD,-21%,1,188
+1,,1,,,,Yale University,SU2CLC-YAL-2517,SU2CLC-YAL-2517-T1,SU2CLC-YAL-2517-N1,,,50,F,0,1,30,Adeno,,2,B,0,,22C3,KRAS,Illumina,-1197,3,Nivolumab,PD(L)1,1,1,1,267,SD,-17%,1,1304
+1,,1,,,,Yale University,SU2CLC-YAL-2518,SU2CLC-YAL-2518-T1,SU2CLC-YAL-2518-N1,,,66,F,0,1,35,Adeno,,4,,0.1,,22C3,KRAS,Illumina,-999,2,Pembrolizumab,PD(L)1,1,0,0,376,PR,-96%,0,1456
+1,,1,,,,Yale University,SU2CLC-YAL-2519,SU2CLC-YAL-2519-T1,SU2CLC-YAL-2519-N1,,,74,M,0,1,5,Adeno,,4,,0,,22C3,KRAS,Illumina,-677,5,Nivolumab,PD(L)1,1,1,1,52,PD,,1,129
+1,,1,,,,Yale University,SU2CLC-YAL-2523,SU2CLC-YAL-2523-T1,SU2CLC-YAL-2523-N1,,,63,M,0,1,40,Squamous,,3,A,0,,22C3,None,Illumina,-545,3,Atezolizumab,PD(L)1,1,0,1,36,PD,43%,1,51
+1,,1,,,,Yale University,SU2CLC-YAL-2525,SU2CLC-YAL-2525-T1,SU2CLC-YAL-2525-N1,,,40,F,0,1,40,Adeno,,3,A,,,22C3,KRAS,Illumina,-1427,6,Nivolumab,PD(L)1,1,1,1,93,PD,,1,206
+1,,1,,,,Yale University,SU2CLC-YAL-2532,SU2CLC-YAL-2532-T1,SU2CLC-YAL-2532-N1,,,75,M,0,1,25,Other,NSCLC NOS poorly differentiated ,4,,0.9,,22C3,None,Illumina,-19,1,Nivolumab + Ipilimumab,PD(L)1 + CTLA4,0,0,0,1305,PR,-80%,0,1438
+1,,1,,,,Yale University,SU2CLC-YAL-2537,SU2CLC-YAL-2537-T1,SU2CLC-YAL-2537-N1,,,56,F,0,1,12,Adeno,,4,,,,22C3,KRAS,Illumina,-937,4,Pembrolizumab,PD(L)1,1,0,1,60,PD,27%,1,116
+1,,1,,,,Yale University,SU2CLC-YAL-2547,SU2CLC-YAL-2547-T1,SU2CLC-YAL-2547-N1,,,64,M,0,1,20,Adeno,,3,A,0.01,,22C3,KRAS,Illumina,-461,3,Pembrolizumab,PD(L)1,1,0,1,61,PD,164%,1,772
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
